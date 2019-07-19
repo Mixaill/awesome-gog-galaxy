@@ -1,5 +1,9 @@
 # Awesome GOG Galaxy
 
+## Resources
+
+* GOG Galaxy Integrations Python API https://github.com/gogcom/galaxy-integrations-python-api
+
 ## Integrations
 
 ### Links
