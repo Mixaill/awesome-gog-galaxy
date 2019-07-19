@@ -17,6 +17,7 @@
    * Wargaming.net (@Mixaill): https://github.com/Mixaill/galaxy-integration-wargaming
    * Bethesda.net (@TouwaStar): https://github.com/TouwaStar/Galaxy_Plugin_Bethesda
    * Humble Bundle (@UncleGoogle) : https://github.com/UncleGoogle/galaxy-integration-humblebundle
+   * Path of Exile (@nyash-qq) : https://github.com/nyash-qq/galaxy-plugin-poe
 
 ### Feature List
 Service       | Type                | Library  | Installation & Launching | Achievements | Game Time | Friends List | Chat | Friends Recommendations |
@@ -31,3 +32,4 @@ Battle.net    | Friends of Galaxy   | ✔        | ✔                        | 
 Wargaming     | Community           | ✔        | ✔                        | ❌          | ❌        | ✔           | ❌    | ✔                     |
 Bethesda.net  | Community           | ✔        | ✔                        | ❌          | ❌        | ❌          | ❌    | ❌                    |  |
 Humble Bundle | Community           | ✔        | ❌                       | ❌          | ❌        | ❌          | ❌    | ❌                    |
+Path of Exile | Community           | ✔        | ✔                       | ✔          | ❌        | ❌          | ❌    | ❌                    |
