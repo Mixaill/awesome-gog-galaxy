@@ -23,6 +23,7 @@
    * Humble Bundle (@UncleGoogle) : https://github.com/UncleGoogle/galaxy-integration-humblebundle
    * Path of Exile (@nyash-qq) : https://github.com/nyash-qq/galaxy-plugin-poe
    * Citra, Nintendo 3DS Emulator (@j-selby) https://github.com/j-selby/galaxy-integration-citra/
+   * Guild Wars 2 (@Mixaill) https://github.com/Mixaill/galaxy-integration-gw2
 
 ### Feature List
 Service       | Type                | Library  | Installation & Launching | Achievements | Game Time | Friends List | Chat | Friends Recommendations |
@@ -39,3 +40,4 @@ Bethesda.net  | Community           | ✔        | ✔                        | 
 Humble Bundle | Community           | ✔        | ❌                       | ❌          | ❌        | ❌          | ❌    | ❌                    |
 Path of Exile | Community           | ✔        | ✔                       | ✔          | ❌        | ❌          | ❌    | ❌                    |
 Citra | Community           | ✔        | ✔                       | ❌          | ❌        | ❌          | ❌    | ❌                    |
+Guild Wars 2 | Community           | ✔        | ✔                       | ❌          | ✔        | ❌          | ❌    | ❌                    |
