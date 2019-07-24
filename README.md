@@ -26,18 +26,18 @@
    * Guild Wars 2 (@Mixaill) https://github.com/Mixaill/galaxy-integration-gw2
 
 ### Feature List
-Service       | Type                | Library  | Installation & Launching | Achievements | Game Time | Friends List | Chat | Friends Recommendations |
-------------- | ------------------- |--------- | ------------------------ | ------------ | --------- | ------------ | ---- | ----------------------- |
-Xbox          | Official            | ✔        | ❌                       | ✔           | ✔         | ❌          | ❌    | ✔                     |
-EGS           | Friends of Galaxy   | ✔        | ✔                        | ❌          | ❌        | ❌          | ❌    | ✔                     |
-Origin        | Friends of Galaxy   | ✔        | ✔                        | ✔           | ✔         | ❌          | ❌    | ✔                     |
-PSN           | Friends of Galaxy   | ✔        | ❌                       | ✔           | ❌        | ❌          | ❌    | ✔                     |
-Steam         | Friends of Galaxy   | ✔        | ✔                        | ✔           | ✔         | ❌          | ❌    | ✔                     |
-Uplay         | Friends of Galaxy   | ✔        | ✔                        | ❌          | ✔         | ❌          | ❌    | ✔                     |
-Battle.net    | Friends of Galaxy   | ✔        | ✔                        | ❌          | ❌        | ❌          | ❌    | ✔                     |
-Wargaming     | Community           | ✔        | ✔                        | ❌          | ❌        | ✔           | ❌    | ✔                     |
-Bethesda.net  | Community           | ✔        | ✔                        | ❌          | ❌        | ❌          | ❌    | ❌                    |  |
-Humble Bundle | Community           | ✔        | ❌                       | ❌          | ❌        | ❌          | ❌    | ❌                    |
-Path of Exile | Community           | ✔        | ✔                       | ✔          | ❌        | ❌          | ❌    | ❌                    |
-Citra | Community           | ✔        | ✔                       | ❌          | ❌        | ❌          | ❌    | ❌                    |
-Guild Wars 2 | Community           | ✔        | ✔                       | ❌          | ✔        | ❌          | ❌    | ❌                    |
+Service       | Type                | Library  | Installation & Launching | Achievements | Game Time | Friends Recommendations |
+------------- | ------------------- |--------- | ------------------------ | ------------ | --------- | ----------------------- |
+Xbox          | Official            | ✔        | ❌                      | ✔           | ✔         | ✔                     |
+EGS           | Friends of Galaxy   | ✔        | ✔                       | ❌          | ❌        | ✔                     |
+Origin        | Friends of Galaxy   | ✔        | ✔                       | ✔           | ✔         | ✔                     |
+PSN           | Friends of Galaxy   | ✔        | ❌                      | ✔           | ❌        | ✔                     |
+Steam         | Friends of Galaxy   | ✔        | ✔                       | ✔           | ✔         | ✔                     |
+Uplay         | Friends of Galaxy   | ✔        | ✔                       | ❌          | ✔         | ✔                     |
+Battle.net    | Friends of Galaxy   | ✔        | ✔                       | ❌          | ❌        | ✔                     |
+Wargaming     | Community           | ✔        | ✔                       | ❌          | ❌        | ✔                     |
+Bethesda.net  | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
+Humble Bundle | Community           | ✔        | ❌                      | ❌          | ❌        | ❌                    |
+Path of Exile | Community           | ✔        | ✔                       | ✔           | ❌        | ❌                    |
+Citra         | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
+Guild Wars 2 | Community            | ✔        | ✔                       | ❌          | ✔         | ❌                    |
