@@ -41,7 +41,7 @@ PSN           | Friends of Galaxy   | ✔        | ❌                      | �
 Steam         | Friends of Galaxy   | ✔        | ✔                       | ✔           | ✔         | ✔                     |
 Uplay         | Friends of Galaxy   | ✔        | ✔                       | ❌          | ✔         | ✔                     |
 Battle.net    | Friends of Galaxy   | ✔        | ✔                       | ❌          | ❌        | ✔                     |
-Wargaming     | Community           | ✔        | ✔                       | ❌          | ❌        | ✔                     |
+Wargaming     | Community           | ✔        | ✔                       | ❌          | 🏜️        | ✔                     |
 Bethesda.net  | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
 Humble Bundle | Community           | ✔        | ❌                      | ❌          | ❌        | ❌                    |
 Path of Exile | Community           | ✔        | ✔                       | ✔           | ❌        | ❌                    |
