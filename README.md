@@ -27,7 +27,7 @@
 
 ### Feature List
 
-* ✔ - implmented
+* ✔ - implemented
 * ❌ - not implemented
 * 🏜️ - not supported by platform
 
