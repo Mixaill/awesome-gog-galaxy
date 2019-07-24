@@ -26,10 +26,15 @@
    * Guild Wars 2 (@Mixaill) https://github.com/Mixaill/galaxy-integration-gw2
 
 ### Feature List
+
+* ✔ - implmented
+* ❌ - not implemented
+* 🏜️ - not supported by platform
+
 Service       | Type                | Library  | Installation & Launching | Achievements | Game Time | Friends Recommendations |
 ------------- | ------------------- |--------- | ------------------------ | ------------ | --------- | ----------------------- |
 Xbox          | Official            | ✔        | ❌                      | ✔           | ✔         | ✔                     |
-EGS           | Friends of Galaxy   | ✔        | ✔                       | ❌          | ❌        | ✔                     |
+EGS           | Friends of Galaxy   | ✔        | ✔                       | 🏜️          | ❌        | ✔                     |
 Origin        | Friends of Galaxy   | ✔        | ✔                       | ✔           | ✔         | ✔                     |
 PSN           | Friends of Galaxy   | ✔        | ❌                      | ✔           | ❌        | ✔                     |
 Steam         | Friends of Galaxy   | ✔        | ✔                       | ✔           | ✔         | ✔                     |
@@ -39,5 +44,5 @@ Wargaming     | Community           | ✔        | ✔                       | �
 Bethesda.net  | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
 Humble Bundle | Community           | ✔        | ❌                      | ❌          | ❌        | ❌                    |
 Path of Exile | Community           | ✔        | ✔                       | ✔           | ❌        | ❌                    |
-Citra         | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
-Guild Wars 2 | Community            | ✔        | ✔                       | ❌          | ✔         | ❌                    |
+Citra         | Community           | ✔        | ✔                       | ❌          | ❌        | 🏜️                    |
+Guild Wars 2 | Community            | ✔        | ✔                       | ❌          | ✔         | 🏜️                    |
