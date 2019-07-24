@@ -24,6 +24,7 @@
    * Path of Exile (@nyash-qq) : https://github.com/nyash-qq/galaxy-plugin-poe
    * Citra, Nintendo 3DS Emulator (@j-selby) https://github.com/j-selby/galaxy-integration-citra/
    * Guild Wars 2 (@Mixaill) https://github.com/Mixaill/galaxy-integration-gw2
+   * Sony PlayStation 2,PCSX2 emulator (@AHCoder) https://github.com/AHCoder/galaxy-integration-ps2
 
 ### Feature List
 
@@ -44,5 +45,6 @@ Wargaming     | Community           | ✔        | ✔                       | �
 Bethesda.net  | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
 Humble Bundle | Community           | ✔        | ❌                      | ❌          | ❌        | ❌                    |
 Path of Exile | Community           | ✔        | ✔                       | ✔           | ❌        | ❌                    |
-Citra         | Community           | ✔        | ✔                       | ❌          | ❌        | 🏜️                    |
-Guild Wars 2 | Community            | ✔        | ✔                       | ❌          | ✔         | 🏜️                    |
+Citra         | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
+Guild Wars 2  | Community           | ✔        | ✔                       | ❌          | ✔         | 🏜️                    |
+Sony PS2      | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
