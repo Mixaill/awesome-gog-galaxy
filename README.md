@@ -42,7 +42,7 @@ Steam         | Friends of Galaxy   | ✔        | ✔                       | �
 Uplay         | Friends of Galaxy   | ✔        | ✔                       | ❌          | ✔         | ✔                     |
 Battle.net    | Friends of Galaxy   | ✔        | ✔                       | ❌          | ❌        | ✔                     |
 Wargaming     | Community           | ✔        | ✔                       | ❌          | 🏜️        | ✔                     |
-Bethesda.net  | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
+Bethesda.net  | Community           | ✔        | ✔                       | 🏜️          | 🏜️        | 🏜️                    |
 Humble Bundle | Community           | ✔        | ❌                      | ❌          | ❌        | ❌                    |
 Path of Exile | Community           | ✔        | ✔                       | ✔           | ❌        | ❌                    |
 Citra         | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
