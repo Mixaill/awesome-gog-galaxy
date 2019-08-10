@@ -54,4 +54,4 @@ Citra         | Community           | ✔        | ✔                       | �
 Guild Wars 2  | Community           | ✔        | ✔                       | ❌          | ✔         | 🏜️                    |
 Sony PS2      | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
 Twitch.tv     | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
-Nintentdo DS  | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
+Nintendo DS   | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
