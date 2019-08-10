@@ -11,12 +11,12 @@
 * Official
    * Xbox: integrated in the GOG Galaxy
 * Friends of Galaxy
+   * Battle.net: https://github.com/FriendsOfGalaxy/galaxy-integration-battlenet
    * EGS: https://github.com/FriendsOfGalaxy/galaxy-integration-epic
    * Origin: https://github.com/FriendsOfGalaxy/galaxy-integration-origin
    * PSN: https://github.com/FriendsOfGalaxy/galaxy-integration-psn
    * Steam: https://github.com/FriendsOfGalaxy/galaxy-integration-steam
    * Uplay: https://github.com/FriendsOfGalaxy/galaxy-integration-uplay
-   * Battle.net: https://github.com/FriendsOfGalaxy/galaxy-integration-battlenet
 * Community
    * Games and services
       * Bethesda.net (@TouwaStar): https://github.com/TouwaStar/Galaxy_Plugin_Bethesda
@@ -54,4 +54,4 @@ Citra         | Community           | ✔        | ✔                       | �
 Guild Wars 2  | Community           | ✔        | ✔                       | ❌          | ✔         | 🏜️                    |
 Sony PS2      | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
 Twitch.tv     | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
-Nintentdo DS  | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
+Nintentdo DS  | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
