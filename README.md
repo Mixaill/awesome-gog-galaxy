@@ -28,6 +28,7 @@
    * Emulators
       * Nintendo 3DS (Citra emulator) (@j-selby) https://github.com/j-selby/galaxy-integration-citra/
       * Nintendo DS (@TBemme) https://github.com/TBemme/galaxy-integration-nds
+      * Nintendo Wii (Dolphin emulator) (@JTNDev) https://github.com/JTNDev/galaxy-integration-wii
       * Sony PlayStation 2 (PCSX2 emulator) (@AHCoder) https://github.com/AHCoder/galaxy-integration-ps2
    
 
@@ -55,3 +56,4 @@ Guild Wars 2  | Community           | ✔        | ✔                       | �
 Sony PS2      | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
 Twitch.tv     | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
 Nintendo DS   | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
+Nintendo Wii  | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
