@@ -11,7 +11,7 @@
 * Official
    * Xbox: integrated in the GOG Galaxy
 * Friends of Galaxy
-   * Battle.net: https://github.com/FriendsOfGalaxy/galaxy-integration-battlenet
+   * Battle.net: https://github.com/FriendsOfGalaxy/galaxy-integration-battlenet/releases
    * EGS: https://github.com/FriendsOfGalaxy/galaxy-integration-epic
    * Origin: https://github.com/FriendsOfGalaxy/galaxy-integration-origin
    * PSN: https://github.com/FriendsOfGalaxy/galaxy-integration-psn
@@ -21,9 +21,9 @@
    * Games and services
       * Bethesda.net (@TouwaStar): https://github.com/TouwaStar/Galaxy_Plugin_Bethesda
       * Guild Wars 2 (@Mixaill) https://github.com/Mixaill/galaxy-integration-gw2
-      * Humble Bundle (@UncleGoogle) : https://github.com/UncleGoogle/galaxy-integration-humblebundle   
+      * Humble Bundle (@UncleGoogle) : https://github.com/UncleGoogle/galaxy-integration-humblebundle/releases
       * Path of Exile (@nyash-qq) : https://github.com/nyash-qq/galaxy-plugin-poe
-      * Twitch.tv (@nyash-qq): https://github.com/nyash-qq/galaxy-plugin-twitch
+      * Twitch.tv (@nyash-qq): https://github.com/nyash-qq/galaxy-plugin-twitch/releases
       * Wargaming.net (@Mixaill): https://github.com/Mixaill/galaxy-integration-wargaming   
    * Emulators
       * Nintendo 3DS (Citra emulator) (@j-selby) https://github.com/j-selby/galaxy-integration-citra/
