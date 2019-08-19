@@ -6,6 +6,8 @@
 
 ## Integrations
 
+At this moment: **18** integrations
+
 ### Links
 
 * Official
