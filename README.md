@@ -20,6 +20,7 @@
 * Community
    * Games and services
       * Bethesda.net (@TouwaStar): https://github.com/TouwaStar/Galaxy_Plugin_Bethesda
+      * Final Fantasy XIV (@RZetko): https://github.com/RZetko/galaxy-integration-ffxiv/releases
       * Guild Wars 2 (@Mixaill) https://github.com/Mixaill/galaxy-integration-gw2
       * Humble Bundle (@UncleGoogle) : https://github.com/UncleGoogle/galaxy-integration-humblebundle/releases
       * Path of Exile (@nyash-qq) : https://github.com/nyash-qq/galaxy-plugin-poe
@@ -57,3 +58,4 @@ Sony PS2      | Community           | ✔        | ✔                       | �
 Twitch.tv     | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
 Nintendo DS   | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
 Nintendo Wii  | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
+FF XIV        | Community           | ✔        | ✔                       | ❌          | 🏜️        | ✔                     |
