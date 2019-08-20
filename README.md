@@ -6,7 +6,7 @@
 
 ## Integrations
 
-At this moment: **18** integrations
+At this moment: **19** integrations
 
 ### Links
 
@@ -30,9 +30,10 @@ At this moment: **18** integrations
       * Wargaming.net (@Mixaill): https://github.com/Mixaill/galaxy-integration-wargaming   
    * Emulators
       * Nintendo 3DS (Citra emulator) (@j-selby) https://github.com/j-selby/galaxy-integration-citra/
-      * Nintendo DS (@TBemme) https://github.com/TBemme/galaxy-integration-nds
+      * Nintendo DS (@TBemme) https://github.com/TBemme/galaxy-integration-nds/releases
       * Nintendo Wii (Dolphin emulator) (@JTNDev) https://github.com/JTNDev/galaxy-integration-wii
       * Sony PlayStation 2 (PCSX2 emulator) (@AHCoder) https://github.com/AHCoder/galaxy-integration-ps2
+      * Sony PlayStation Portable (@TBemme) https://github.com/TBemme/galaxy-integration-psp/releases
    
 
 ### Feature List
@@ -61,3 +62,4 @@ Twitch.tv     | Community           | ✔        | ✔                       | �
 Nintendo DS   | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
 Nintendo Wii  | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
 FF XIV        | Community           | ✔        | ✔                       | ❌          | 🏜️        | ✔                     |
+Sony PSP      | Community           | ✔        | ✔                       | 🏜️          | ❌        | ❌                    |
