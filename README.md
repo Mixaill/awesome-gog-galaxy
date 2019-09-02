@@ -6,7 +6,7 @@
 
 ## Integrations
 
-At this moment: **19** integrations
+At this moment: **20** integrations
 
 ### Links
 
