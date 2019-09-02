@@ -31,6 +31,7 @@ At this moment: **19** integrations
    * Emulators
       * Nintendo 3DS (Citra emulator) (@j-selby) https://github.com/j-selby/galaxy-integration-citra/
       * Nintendo DS (@TBemme) https://github.com/TBemme/galaxy-integration-nds/releases
+      * Nintendo GameCube (@JTNDev) https://github.com/JTNDev/galaxy-integration-gc
       * Nintendo Wii (Dolphin emulator) (@JTNDev) https://github.com/JTNDev/galaxy-integration-wii
       * Sony PlayStation 2 (PCSX2 emulator) (@AHCoder) https://github.com/AHCoder/galaxy-integration-ps2
       * Sony PlayStation Portable (@TBemme) https://github.com/TBemme/galaxy-integration-psp/releases
@@ -63,3 +64,4 @@ Nintendo DS   | Community           | ✔        | ✔                       | �
 Nintendo Wii  | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
 FF XIV        | Community           | ✔        | ✔                       | ❌          | 🏜️        | ✔                     |
 Sony PSP      | Community           | ✔        | ✔                       | 🏜️          | ❌        | ❌                    |
+Nintendo GC   | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
