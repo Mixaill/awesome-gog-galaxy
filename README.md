@@ -6,7 +6,7 @@
 
 ## Integrations
 
-At this moment: **20** integrations
+At this moment: **21** integrations
 
 ### Links
 
@@ -25,6 +25,7 @@ At this moment: **20** integrations
       * Final Fantasy XIV (@RZetko): https://github.com/RZetko/galaxy-integration-ffxiv/releases
       * Guild Wars 2 (@Mixaill) https://github.com/Mixaill/galaxy-integration-gw2
       * Humble Bundle (@UncleGoogle) : https://github.com/UncleGoogle/galaxy-integration-humblebundle/releases
+      * Minecraft (@TouwaStar): https://github.com/TouwaStar/Galaxy_Plugin_Minecraft
       * Path of Exile (@nyash-qq) : https://github.com/nyash-qq/galaxy-plugin-poe
       * Twitch.tv (@nyash-qq): https://github.com/nyash-qq/galaxy-plugin-twitch/releases
       * Wargaming.net (@Mixaill): https://github.com/Mixaill/galaxy-integration-wargaming   
@@ -65,3 +66,4 @@ Nintendo Wii  | Community           | ✔        | ✔                       | �
 FF XIV        | Community           | ✔        | ✔                       | ❌          | 🏜️        | ✔                     |
 Sony PSP      | Community           | ✔        | ✔                       | 🏜️          | ❌        | ❌                    |
 Nintendo GC   | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
+Minecraft     | Community           | ❔        | ❔                       | ❔          | ❔        | ❔                    |
