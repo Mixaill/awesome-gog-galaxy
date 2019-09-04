@@ -1,69 +1,62 @@
 # Awesome GOG Galaxy
 
 ## Resources
-
-* GOG Galaxy Integrations Python API https://github.com/gogcom/galaxy-integrations-python-api
+* [GOG Galaxy Integrations Python API](https://github.com/gogcom/galaxy-integrations-python-api)
 
 ## Integrations
+Below are the integrations (**21** in total) and its features. Hover over links to see the maintainer.
+* `✅` implemented
+* `❌` not implemented
+* `⬜` unsupported by the platform
+* `⬛` unknown / to be added
 
-At this moment: **21** integrations
 
-### Links
+Service                                           | Install & Launch | Achievements | Game Time | Friend Recmd.
+------------------------------------------------- | ---------------: | -----------: | --------: | ------------:
+***Official***
+Xbox                                              | ❌               | ✅           | ✅       | ✅
+***Friends of Galaxy***
+[Battle.net][battlenet]                           | ✅               | ❌           | ❌       | ✅
+[Epic Games Store][epic]                          | ✅               | ⬜           | ❌       | ✅
+[Origin][origin]                                  | ✅               | ✅           | ✅       | ✅
+[PSN][psn]                                        | ❌               | ✅           | ❌       | ✅
+[Steam][steam]                                    | ✅               | ✅           | ✅       | ✅
+[Uplay][uplay]                                    | ✅               | ❌           | ✅       | ✅
+***Community***
+[Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
+[Final Fantasy XIV][ffxiv]                        | ✅               | ❌           | ⬜       | ✅
+[Guild Wars 2][gw2]                               | ✅               | ❌           | ✅       | ⬜
+[Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
+[Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
+[Twitch.tv][twitch] (shows as 'Amazon')           | ✅               | ❌           | ❌       | ❌
+[Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
+[Minecraft][minecraft] (shows as 'Best Buy')      | ⬛               | ⬛           | ⬛       | ⬛
+***Community, Emulators***
+[Nintendo 3DS (Citra)][3ds]                       | ✅               | ⬜           | ❌       | ⬜
+[Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜
+[Nintendo GameCube (Dolphin)][ncube]              | ✅               | ⬜           | ❌       | ⬜
+[Nintendo Wii (Dolphin)][nwii]                    | ✅               | ⬜           | ❌       | ⬜
+[Sony PlayStation Portable][psp]                  | ✅               | ⬜           | ❌       | ❌
+[Sony PlayStation 2 (PCSX2)][ps2]                 | ✅               | ⬜           | ❌       | ⬜
 
-* Official
-   * Xbox: integrated in the GOG Galaxy
-* Friends of Galaxy
-   * Battle.net: https://github.com/FriendsOfGalaxy/galaxy-integration-battlenet/releases
-   * EGS: https://github.com/FriendsOfGalaxy/galaxy-integration-epic
-   * Origin: https://github.com/FriendsOfGalaxy/galaxy-integration-origin
-   * PSN: https://github.com/FriendsOfGalaxy/galaxy-integration-psn
-   * Steam: https://github.com/FriendsOfGalaxy/galaxy-integration-steam
-   * Uplay: https://github.com/FriendsOfGalaxy/galaxy-integration-uplay
-* Community
-   * Games and services
-      * Bethesda.net (@TouwaStar): https://github.com/TouwaStar/Galaxy_Plugin_Bethesda
-      * Final Fantasy XIV (@RZetko): https://github.com/RZetko/galaxy-integration-ffxiv/releases
-      * Guild Wars 2 (@Mixaill) https://github.com/Mixaill/galaxy-integration-gw2
-      * Humble Bundle (@UncleGoogle) : https://github.com/UncleGoogle/galaxy-integration-humblebundle/releases
-      * Minecraft (@TouwaStar) **(DISPLAYS AS BEST BUY)**: https://github.com/TouwaStar/Galaxy_Plugin_Minecraft
-      * Path of Exile (@nyash-qq) : https://github.com/nyash-qq/galaxy-plugin-poe
-      * Twitch.tv (@nyash-qq): https://github.com/nyash-qq/galaxy-plugin-twitch/releases
-      * Wargaming.net (@Mixaill): https://github.com/Mixaill/galaxy-integration-wargaming   
-   * Emulators
-      * Nintendo 3DS (Citra emulator) (@j-selby) https://github.com/j-selby/galaxy-integration-citra/
-      * Nintendo DS (@TBemme) https://github.com/TBemme/galaxy-integration-nds/releases
-      * Nintendo GameCube (@JTNDev) https://github.com/JTNDev/galaxy-integration-gc
-      * Nintendo Wii (Dolphin emulator) (@JTNDev) https://github.com/JTNDev/galaxy-integration-wii
-      * Sony PlayStation 2 (PCSX2 emulator) (@AHCoder) https://github.com/AHCoder/galaxy-integration-ps2
-      * Sony PlayStation Portable (@TBemme) https://github.com/TBemme/galaxy-integration-psp/releases
-   
 
-### Feature List
-
-* ✔ - implemented
-* ❌ - not implemented
-* 🏜️ - not supported by platform
-
-Service       | Type                | Library  | Installation & Launching | Achievements | Game Time | Friends Recommendations |
-------------- | ------------------- |--------- | ------------------------ | ------------ | --------- | ----------------------- |
-Xbox          | Official            | ✔        | ❌                      | ✔           | ✔         | ✔                     |
-EGS           | Friends of Galaxy   | ✔        | ✔                       | 🏜️          | ❌        | ✔                     |
-Origin        | Friends of Galaxy   | ✔        | ✔                       | ✔           | ✔         | ✔                     |
-PSN           | Friends of Galaxy   | ✔        | ❌                      | ✔           | ❌        | ✔                     |
-Steam         | Friends of Galaxy   | ✔        | ✔                       | ✔           | ✔         | ✔                     |
-Uplay         | Friends of Galaxy   | ✔        | ✔                       | ❌          | ✔         | ✔                     |
-Battle.net    | Friends of Galaxy   | ✔        | ✔                       | ❌          | ❌        | ✔                     |
-Wargaming     | Community           | ✔        | ✔                       | ❌          | 🏜️        | ✔                     |
-Bethesda.net  | Community           | ✔        | ✔                       | 🏜️          | 🏜️        | 🏜️                    |
-Humble Bundle | Community           | ✔        | ❌                      | ❌          | ❌        | ❌                    |
-Path of Exile | Community           | ✔        | ✔                       | ✔           | ❌        | ❌                    |
-Citra         | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
-Guild Wars 2  | Community           | ✔        | ✔                       | ❌          | ✔         | 🏜️                    |
-Sony PS2      | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
-Twitch.tv     | Community           | ✔        | ✔                       | ❌          | ❌        | ❌                    |
-Nintendo DS   | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
-Nintendo Wii  | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
-FF XIV        | Community           | ✔        | ✔                       | ❌          | 🏜️        | ✔                     |
-Sony PSP      | Community           | ✔        | ✔                       | 🏜️          | ❌        | ❌                    |
-Nintendo GC   | Community           | ✔        | ✔                       | 🏜️          | ❌        | 🏜️                    |
-Minecraft     | Community           | ❔        | ❔                       | ❔          | ❔        | ❔                    |
+[battlenet]: https://github.com/FriendsOfGalaxy/galaxy-integration-battlenet "Friends of Galaxy"
+[epic]: https://github.com/FriendsOfGalaxy/galaxy-integration-epic "Friends of Galaxy"
+[origin]: https://github.com/FriendsOfGalaxy/galaxy-integration-origin "Friends of Galaxy"
+[psn]: https://github.com/FriendsOfGalaxy/galaxy-integration-psn "Friends of Galaxy"
+[steam]: https://github.com/FriendsOfGalaxy/galaxy-integration-steam "Friends of Galaxy"
+[uplay]: https://github.com/FriendsOfGalaxy/galaxy-integration-uplay "Friends of Galaxy"
+[bethesda]: https://github.com/TouwaStar/Galaxy_Plugin_Bethesda "Maintainted by @TouwaStar"
+[ffxiv]: https://github.com/RZetko/galaxy-integration-ffxiv "Maintainted by @RZetko"
+[gw2]: https://github.com/Mixaill/galaxy-integration-gw2 "Maintainted by @Mixaill"
+[humble]: https://github.com/UncleGoogle/galaxy-integration-humblebundle "Maintainted by @UncleGoogle"
+[pathofexile]: https://github.com/nyash-qq/galaxy-plugin-poe "Maintainted by @nyash-qq"
+[twitch]: https://github.com/nyash-qq/galaxy-plugin-twitch "Maintainted by @nyash-qq"
+[wargaming]: https://github.com/Mixaill/galaxy-integration-wargaming "Maintainted by @Mixaill"
+[minecraft]: https://github.com/TouwaStar/Galaxy_Plugin_Minecraft "Maintainted by @TouwaStar"
+[3ds]: https://github.com/j-selby/galaxy-integration-citra "Maintainted by @j-selby"
+[nds]: https://github.com/TBemme/galaxy-integration-nds "Maintainted by @TBemme"
+[ncube]: https://github.com/JTNDev/galaxy-integration-gc "Maintainted by @JTNDev"
+[nwii]: https://github.com/JTNDev/galaxy-integration-wii "Maintainted by @JTNDev"
+[ps2]: https://github.com/AHCoder/galaxy-integration-ps2 "Maintainted by @AHCoder"
+[psp]: https://github.com/TBemme/galaxy-integration-psp "Maintainted by @TBemme"
