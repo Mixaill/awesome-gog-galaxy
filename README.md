@@ -28,7 +28,7 @@ Xbox                                              | ❌               | ✅     
 [Guild Wars 2][gw2]                               | ✅               | ❌           | ✅       | ⬜
 [Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
 [Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
-[Twitch.tv][twitch] (shows as 'Amazon')           | ✅               | ❌           | ❌       | ❌
+[Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
 [Minecraft][minecraft] (shows as 'Best Buy')      | ⬛               | ⬛           | ⬛       | ⬛
 ***Community, Emulators***
