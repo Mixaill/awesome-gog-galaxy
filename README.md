@@ -30,7 +30,7 @@ Xbox                                              | ❌               | ✅     
 [Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
 [Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
-[Minecraft][minecraft] (shows as 'Best Buy')      | ⬛               | ⬛           | ⬛       | ⬛
+[Minecraft][minecraft]                            | ⬛               | ⬛           | ⬛       | ⬛
 ***Community, Emulators***
 [Nintendo 3DS (Citra)][3ds]                       | ✅               | ⬜           | ❌       | ⬜
 [Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜
