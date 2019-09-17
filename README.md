@@ -36,6 +36,7 @@ Xbox                                              | ❌               | ✅     
 [Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜
 [Nintendo GameCube (Dolphin)][ncube]              | ✅               | ⬜           | ❌       | ⬜
 [Nintendo Wii (Dolphin)][nwii]                    | ✅               | ⬜           | ❌       | ⬜
+[Nintendo Wii U (Cemu)][nwiiu]                    | ✅               | ⬜           | ✅       | ⬜
 [Sony PlayStation Portable][psp]                  | ✅               | ⬜           | ❌       | ❌
 [Sony PlayStation 2 (PCSX2)][ps2]                 | ✅               | ⬜           | ❌       | ⬜
 
@@ -60,3 +61,4 @@ Xbox                                              | ❌               | ✅     
 [nwii]: https://github.com/JTNDev/galaxy-integration-wii "Maintainted by @JTNDev"
 [ps2]: https://github.com/AHCoder/galaxy-integration-ps2 "Maintainted by @AHCoder"
 [psp]: https://github.com/TBemme/galaxy-integration-psp "Maintainted by @TBemme"
+[nwiiu]: https://github.com/LeonardFiedrowicz/galaxy-integration-cemu "Maintained by @LeonardFiedrowicz"
