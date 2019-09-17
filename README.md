@@ -4,7 +4,7 @@
 * [GOG Galaxy Integrations Python API](https://github.com/gogcom/galaxy-integrations-python-api)
 
 ## Integrations
-Below are the integrations (**21** in total) and its features. Hover over links to see the maintainer.
+Below are the integrations (**22** in total) and its features. Hover over links to see the maintainer.
 * `✅` implemented
 * `❌` not implemented
 * `⬜` unsupported by the platform
