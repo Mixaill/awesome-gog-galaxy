@@ -1,4 +1,5 @@
 # Awesome GOG Galaxy
+[![Gitter](https://badges.gitter.im/awesome-gog-galaxy/community.svg)](https://gitter.im/awesome-gog-galaxy/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Resources
 * [GOG Galaxy Integrations Python API](https://github.com/gogcom/galaxy-integrations-python-api)
