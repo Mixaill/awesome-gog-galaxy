@@ -17,7 +17,7 @@ Service                                           | Install & Launch | Achieveme
 Xbox                                              | ❌               | ✅           | ✅       | ✅
 ***Friends of Galaxy***
 [Battle.net][battlenet]                           | ✅               | ❌           | ❌       | ✅
-[Epic Games Store][epic]                          | ✅               | ⬜           | ❌       | ✅
+[Epic Games Store][epic]                          | ✅               | ⬜           | ✅       | ✅
 [Origin][origin]                                  | ✅               | ✅           | ✅       | ✅
 [PSN][psn]                                        | ❌               | ✅           | ❌       | ✅
 [Steam][steam]                                    | ✅               | ✅           | ✅       | ✅
