@@ -1,8 +1,8 @@
 # Awesome GOG Galaxy
 
 ## Communication
-* Gitter.im (for integration developers) [![Gitter chat for integration developers](https://badges.gitter.im/awesome-gog-galaxy/community.svg)](https://gitter.im/awesome-gog-galaxy/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-* Discord (for end users) https://discord.gg/372vxnZ
+* For integration developers: [![Gitter chat for integration developers](https://badges.gitter.im/awesome-gog-galaxy/community.svg)](https://gitter.im/awesome-gog-galaxy/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+* For end users: https://discord.gg/372vxnZ
 
 ## Resources
 * [GOG Galaxy Integrations Python API](https://github.com/gogcom/galaxy-integrations-python-api)
