@@ -22,7 +22,7 @@
   * Parametrized game launch ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/52#issuecomment-523540588))
 
 ## Integrations
-Below are the integrations (**22** in total) and its features. Hover over links to see the maintainer.
+Below are the integrations (**23** in total) and its features. Hover over links to see the maintainer.
 * `✅` implemented
 * `❌` not implemented
 * `⬜` unsupported by the platform
@@ -58,6 +58,7 @@ Xbox                                              | ✅               | ✅     
 [Nintendo Wii U (Cemu)][nwiiu]                    | ✅               | ⬜           | ✅       | ⬜
 [Sony PlayStation Portable][psp]                  | ✅               | ⬜           | ❌       | ❌
 [Sony PlayStation 2 (PCSX2)][ps2]                 | ✅               | ⬜           | ❌       | ⬜
+[Sony PlayStation 3 (RPCS3)][ps3] (showed as ColecoVision) | ✅               | ❌           | ✅       | ⬜
 
 
 [battlenet]: https://github.com/FriendsOfGalaxy/galaxy-integration-battlenet "Friends of Galaxy"
@@ -81,3 +82,4 @@ Xbox                                              | ✅               | ✅     
 [ps2]: https://github.com/AHCoder/galaxy-integration-ps2 "Maintainted by @AHCoder"
 [psp]: https://github.com/TBemme/galaxy-integration-psp "Maintainted by @TBemme"
 [nwiiu]: https://github.com/LeonardFiedrowicz/galaxy-integration-cemu "Maintained by @LeonardFiedrowicz"
+[ps3]: https://github.com/mpm11011/galaxy-integration-rpcs3 "Maintained by @mpm11011"
