@@ -20,7 +20,7 @@
   * Game deduplication ([1](https://www.reddit.com/r/gog/comments/d5gzld/i_hope_we_can_get_a_better_solution_for/f0m2cb9/))
   * Game language management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/8#issuecomment-510074658))
   * Integration search ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/20#issuecomment-511233784), [2](https://github.com/gogcom/galaxy-integrations-python-api/issues/49#issuecomment-522331088))
-  * Parametrized game launch ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/52#issuecomment-523540588))
+  * Parametrized game launch ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/52#issuecomment-523540588), [2](https://www.reddit.com/r/gog/comments/d43ab3/suggestion_gog_galaxy_20_mark_games_owned/f0ezmkc/))
 
 ## Integrations
 Below are the integrations (**23** in total) and its features. Hover over links to see the maintainer.
