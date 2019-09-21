@@ -6,6 +6,18 @@
 ## Resources
 * [GOG Galaxy Integrations Python API](https://github.com/gogcom/galaxy-integrations-python-api)
 
+## Upcoming features
+
+* In backlog
+  * Chat and friends list for integrations ([1](https://github.com/gogcom/galaxy-integrations-python-api/commit/223adf6a384c438552be697467c9495dc591c448#commitcomment-34429833))
+  * DLC management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/23#issuecomment-512730026))
+  * Secret achievements ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/63#issuecomment-532543083))
+* Will be considered
+  * Adding tags from the API ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/49#issuecomment-522331088))
+  * Custom platforms ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/66#issuecomment-532571531))
+  * Game language management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/8#issuecomment-510074658))
+  * Integration search ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/20#issuecomment-511233784), [2](https://github.com/gogcom/galaxy-integrations-python-api/issues/49#issuecomment-522331088))
+
 ## Integrations
 Below are the integrations (**22** in total) and its features. Hover over links to see the maintainer.
 * `✅` implemented
