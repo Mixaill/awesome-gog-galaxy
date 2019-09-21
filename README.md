@@ -4,7 +4,9 @@
 * Discord: https://discord.gg/372vxnZ
 
 ## Resources
-* [GOG Galaxy Integrations Python API](https://github.com/gogcom/galaxy-integrations-python-api)
+* GOG Galaxy Integrations Python API
+   * Github repository https://github.com/gogcom/galaxy-integrations-python-api
+   * PyPi package https://pypi.org/project/galaxy.plugin.api/
 
 ## Upcoming features
 
