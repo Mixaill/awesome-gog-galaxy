@@ -12,12 +12,13 @@ Below are the integrations (**22** in total) and its features. Hover over links 
 * `❌` not implemented
 * `⬜` unsupported by the platform
 * `⬛` unknown / to be added
+* `⚠` in progress / works with issues
 
 
 Service                                           | Install & Launch | Achievements | Game Time | Friend Recmd.
 ------------------------------------------------- | ---------------: | -----------: | --------: | ------------:
 ***Official***
-Xbox                                              | ❌               | ✅           | ✅       | ✅
+Xbox                                              | ✅               | ✅           | ✅       | ✅
 ***Friends of Galaxy***
 [Battle.net][battlenet]                           | ✅               | ❌           | ❌       | ✅
 [Epic Games Store][epic]                          | ✅               | ⬜           | ✅       | ✅
@@ -28,7 +29,7 @@ Xbox                                              | ❌               | ✅     
 ***Community***
 [Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
 [Final Fantasy XIV][ffxiv]                        | ✅               | ❌           | ⬜       | ✅
-[Guild Wars 2][gw2]                               | ✅               | ❌           | ✅       | ⬜
+[Guild Wars 2][gw2]                               | ✅               | ⚠            | ✅       | ⬜
 [Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
 [Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
 [Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
