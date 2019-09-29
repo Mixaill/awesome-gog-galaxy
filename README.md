@@ -7,8 +7,9 @@
 * GOG Galaxy Integrations Python API
    * Github repository https://github.com/gogcom/galaxy-integrations-python-api
    * PyPi package https://pypi.org/project/galaxy.plugin.api/
+ * GOG Database https://www.gogdb.org/
 
-## Upcoming features
+## Galaxy 2.0 Upcoming features
 
 * In backlog
   * Chat and friends list for integrations ([1](https://github.com/gogcom/galaxy-integrations-python-api/commit/223adf6a384c438552be697467c9495dc591c448#commitcomment-34429833))
