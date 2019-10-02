@@ -43,16 +43,17 @@ Xbox                                              | ✅               | ✅     
 [PSN][psn]                                        | ❌               | ✅           | ❌       | ✅
 [Steam][steam]                                    | ✅               | ✅           | ✅       | ✅
 [Uplay][uplay]                                    | ✅               | ❌           | ✅       | ✅
-***Community***
+***Community, Stores***
 [Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
-[Final Fantasy XIV][ffxiv]                        | ✅               | ❌           | ⬜       | ✅
-[Guild Wars 2][gw2]                               | ✅               | ⚠            | ✅       | ⬜
 [Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
 [Itch.io][itch]                                   | ⬛               | ⬛           | ⬛       | ⬛
-[Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
 [Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
+***Community, Games***
+[Final Fantasy XIV][ffxiv]                        | ✅               | ❌           | ⬜       | ✅
+[Guild Wars 2][gw2]                               | ✅               | ⚠            | ✅       | ⬜
 [Minecraft][minecraft]                            | ⬛               | ⬛           | ⬛       | ⬛
+[Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
 ***Community, Emulators***
 [Nintendo 3DS (Citra)][3ds]                       | ✅               | ⬜           | ❌       | ⬜
 [Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜
