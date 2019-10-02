@@ -48,6 +48,7 @@ Xbox                                              | ✅               | ✅     
 [Final Fantasy XIV][ffxiv]                        | ✅               | ❌           | ⬜       | ✅
 [Guild Wars 2][gw2]                               | ✅               | ⚠            | ✅       | ⬜
 [Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
+[Itch.io][itch]                                   | ⬛               | ⬛           | ⬛       | ⬛
 [Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
 [Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
@@ -85,3 +86,4 @@ Xbox                                              | ✅               | ✅     
 [psp]: https://github.com/TBemme/galaxy-integration-psp "Maintainted by @TBemme"
 [nwiiu]: https://github.com/LeonardFiedrowicz/galaxy-integration-cemu "Maintained by @LeonardFiedrowicz"
 [ps3]: https://github.com/mpm11011/galaxy-integration-rpcs3 "Maintained by @mpm11011"
+[itch]: https://github.com/Ertego/gog-galaxy-itch.io "Maintained by @Ertego"
