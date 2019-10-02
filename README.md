@@ -46,7 +46,7 @@ Xbox                                              | ✅               | ✅     
 ***Community, Stores***
 [Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
 [Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
-[Itch.io][itch]                                   | ⬛               | ⬜           | ⬛       | ⬜
+[Itch.io][itch]                                   | ⬛               | ⬜           | ⬜       | ⬜
 [Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
 ***Community, Games***
