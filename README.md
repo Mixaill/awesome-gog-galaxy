@@ -43,8 +43,8 @@ Xbox                                              | ✅               | ✅     
 [PSN][psn]                                        | ❌               | ✅           | ❌       | ✅
 [Steam][steam]                                    | ✅               | ✅           | ✅       | ✅
 [Uplay][uplay]                                    | ✅               | ❌           | ✅       | ✅
-***Community, Stores***
 [Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
+***Community, Stores***
 [Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
 [Itch.io][itch]                                   | ⬛               | ⬜           | ⬜       | ⬜
 [Rockstar Game Launcher][rockstar] (showed as Riot) | ⬛               | ⬛           | ⬛       | ⬛
@@ -73,7 +73,7 @@ Xbox                                              | ✅               | ✅     
 [psn]: https://github.com/FriendsOfGalaxy/galaxy-integration-psn "Friends of Galaxy"
 [steam]: https://github.com/FriendsOfGalaxy/galaxy-integration-steam "Friends of Galaxy"
 [uplay]: https://github.com/FriendsOfGalaxy/galaxy-integration-uplay "Friends of Galaxy"
-[bethesda]: https://github.com/TouwaStar/Galaxy_Plugin_Bethesda "Maintainted by @TouwaStar"
+[bethesda]: https://github.com/FriendsOfGalaxy/galaxy-integration-bethesda "Friends of Galaxy"
 [ffxiv]: https://github.com/RZetko/galaxy-integration-ffxiv "Maintainted by @RZetko"
 [gw2]: https://github.com/Mixaill/galaxy-integration-gw2 "Maintainted by @Mixaill"
 [humble]: https://github.com/UncleGoogle/galaxy-integration-humblebundle "Maintainted by @UncleGoogle"
