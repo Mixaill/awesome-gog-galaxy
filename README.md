@@ -46,8 +46,8 @@ Xbox                                              | ✅               | ✅     
 ***Community, Stores***
 [Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
 [Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
-[Itch.io][itch]                                   | ⬛               | ⬜           | ⬜       | ⬜
-[Rockstar Game Launcher][rockstar] (showed as Riot) | ⬛               | ⬛           | ⬛       | ⬛
+[Itch.io][itch]                                   | ⚠               | ⬜           | ⬜       | ⬜
+[Rockstar Game Launcher][rockstar] (showed as Riot) | ⚠             | ❌           | ❌       | ✅
 [Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
 ***Community, Games***
