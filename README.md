@@ -24,7 +24,7 @@
   * Parametrized game launch ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/52#issuecomment-523540588), [2](https://www.reddit.com/r/gog/comments/d43ab3/suggestion_gog_galaxy_20_mark_games_owned/f0ezmkc/))
 
 ## Integrations
-Below are the integrations (**24** in total) and its features. Hover over links to see the maintainer.
+Below are the integrations (**26** in total) and its features. Hover over links to see the maintainer.
 * `✅` implemented
 * `❌` not implemented
 * `⬜` unsupported by the platform
@@ -55,6 +55,7 @@ Xbox                                              | ✅               | ✅     
 [Guild Wars 2][gw2]                               | ✅               | ⚠            | ✅       | ⬜
 [Minecraft][minecraft]                            | ⬛               | ⬛           | ⬛       | ⬛
 [Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
+[Touhou Project (thcrap)][touhou] (showed as Test) | ⬛               | ⬛           | ⬛       | ⬛
 ***Community, Emulators***
 [Nintendo 3DS (Citra)][3ds]                       | ✅               | ⬜           | ❌       | ⬜
 [Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜
@@ -90,3 +91,4 @@ Xbox                                              | ✅               | ✅     
 [ps3]: https://github.com/mpm11011/galaxy-integration-rpcs3 "Maintained by @mpm11011"
 [itch]: https://github.com/Ertego/gog-galaxy-itch.io "Maintained by @Ertego"
 [rockstar]: https://github.com/tylerbrawl/Galaxy-Plugin-Rockstar "Maintained by @tylerbrawl"
+[touhou]: https://gitlab.com/PookaMustard/thcrap-plugin-for-galaxy-2.0 "Maintained by @PookaMustard"
