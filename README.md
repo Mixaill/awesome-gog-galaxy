@@ -24,7 +24,7 @@
   * Parametrized game launch ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/52#issuecomment-523540588), [2](https://www.reddit.com/r/gog/comments/d43ab3/suggestion_gog_galaxy_20_mark_games_owned/f0ezmkc/))
 
 ## Integrations
-Below are the integrations (**26** in total) and its features. Hover over links to see the maintainer.
+Below are the integrations (**29** in total) and its features. Hover over links to see the maintainer.
 * `✅` implemented
 * `❌` not implemented
 * `⬜` unsupported by the platform
@@ -46,24 +46,27 @@ Xbox                                              | ✅               | ✅     
 ***Community, Stores***
 [Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
 [Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
-[Itch.io][itch]                                   | ⚠               | ⬜           | ⬜       | ⬜
-[Rockstar Game Launcher][rockstar] (showed as Riot) | ⚠             | ❌           | ❌       | ✅
+[Itch.io][itch]                                   | ⚠                | ⬜           | ⬜       | ⬜
+[Rockstar Game Launcher][rockstar] (showed as Riot) | ⚠                | ❌           | ❌       | ✅
 [Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
 ***Community, Games***
 [Final Fantasy XIV][ffxiv]                        | ✅               | ❌           | ⬜       | ✅
-[Guild Wars 2][gw2]                               | ✅               | ⚠           | ✅       | ⬜
+[Guild Wars 2][gw2]                               | ✅               | ⚠            | ✅       | ⬜
 [Minecraft][minecraft]                            | ⬛               | ⬛           | ⬛       | ⬛
 [Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
 [Touhou Project (thcrap)][touhou] (showed as Test)| ✅               | ⬜           | ❌       | ⬜
 ***Community, Emulators***
 [Nintendo 3DS (Citra)][3ds]                       | ✅               | ⬜           | ❌       | ⬜
 [Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜
+[Nintendo Entertainment System (Mesen)][nes]      | ✅               | ⬜           | ✅       | ⬜
+[Nintendo Gameboy (mGBA)][gameboy]                | ✅               | ⬜           | ✅       | ⬜
 [Nintendo GameCube (Dolphin)][ncube]              | ✅               | ⬜           | ❌       | ⬜
 [Nintendo Wii (Dolphin)][nwii]                    | ✅               | ⬜           | ❌       | ⬜
 [Nintendo Wii U (Cemu)][nwiiu]                    | ✅               | ⬜           | ✅       | ⬜
+[Super Nintendo Entertainment System (Bsnes)][snes] | ✅               | ⬜           | ✅       | ⬜
 [Sony PlayStation Portable][psp]                  | ✅               | ⬜           | ❌       | ❌
-[Sony PlayStation 2 (PCSX2)][ps2]                 | ✅               | ⬜           | ❌       | ⬜
+[Sony PlayStation 2 (PCSX2)][ps2]                 | ✅               | ⬜           | ✅       | ⬜
 [Sony PlayStation 3 (RPCS3)][ps3] (showed as ColecoVision) | ✅               | ❌           | ✅       | ⬜
 
 
@@ -92,3 +95,6 @@ Xbox                                              | ✅               | ✅     
 [itch]: https://github.com/Ertego/gog-galaxy-itch.io "Maintained by @Ertego"
 [rockstar]: https://github.com/tylerbrawl/Galaxy-Plugin-Rockstar "Maintained by @tylerbrawl"
 [touhou]: https://gitlab.com/PookaMustard/thcrap-plugin-for-galaxy-2.0 "Maintained by @PookaMustard"
+[nes]: https://github.com/AHCoder/galaxy-integration-nes "Maintained by @AHCoder"
+[gameboy]: https://github.com/AHCoder/galaxy-integration-ngameboy "Maintained by @AHCoder"
+[snes]: https://github.com/AHCoder/galaxy-integration-snes "Maintained by @AHCoder"
