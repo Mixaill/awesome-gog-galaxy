@@ -52,10 +52,10 @@ Xbox                                              | ✅               | ✅     
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
 ***Community, Games***
 [Final Fantasy XIV][ffxiv]                        | ✅               | ❌           | ⬜       | ✅
-[Guild Wars 2][gw2]                               | ✅               | ⚠            | ✅       | ⬜
+[Guild Wars 2][gw2]                               | ✅               | ⚠           | ✅       | ⬜
 [Minecraft][minecraft]                            | ⬛               | ⬛           | ⬛       | ⬛
 [Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
-[Touhou Project (thcrap)][touhou] (showed as Test) | ⬛               | ⬛           | ⬛       | ⬛
+[Touhou Project (thcrap)][touhou] (showed as Test)| ✅               | ⬜           | ❌       | ⬜
 ***Community, Emulators***
 [Nintendo 3DS (Citra)][3ds]                       | ✅               | ⬜           | ❌       | ⬜
 [Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜
