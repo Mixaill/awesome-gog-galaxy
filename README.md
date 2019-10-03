@@ -47,6 +47,7 @@ Xbox                                              | ✅               | ✅     
 [Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
 [Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
 [Itch.io][itch]                                   | ⬛               | ⬜           | ⬜       | ⬜
+[Rockstar Game Launcher][rockstar] (showed as Riot) | ⬛               | ⬛           | ⬛       | ⬛
 [Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
 ***Community, Games***
@@ -88,3 +89,4 @@ Xbox                                              | ✅               | ✅     
 [nwiiu]: https://github.com/LeonardFiedrowicz/galaxy-integration-cemu "Maintained by @LeonardFiedrowicz"
 [ps3]: https://github.com/mpm11011/galaxy-integration-rpcs3 "Maintained by @mpm11011"
 [itch]: https://github.com/Ertego/gog-galaxy-itch.io "Maintained by @Ertego"
+[rockstar]: https://github.com/tylerbrawl/Galaxy-Plugin-Rockstar "Maintained by @tylerbrawl"
