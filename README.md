@@ -3,6 +3,11 @@
 ## Communication
 * Discord: https://discord.gg/372vxnZ
 
+## Integration updaters
+
+* [GOG Integration Updater](https://github.com/Slashbunny/gog-galaxy-plugin-downloader) by @Slashbunny
+* [GOG Galaxy 2.0 Integrations Scoop Bucket](https://github.com/borger/scoop-galaxy-integrations) by @Borger
+
 ## Resources
 * GOG Galaxy Integrations Python API
    * Github repository https://github.com/gogcom/galaxy-integrations-python-api
