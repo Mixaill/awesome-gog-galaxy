@@ -61,7 +61,7 @@ Xbox                                              | ✅               | ✅     
 [Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜
 [Nintendo Entertainment System (Mesen)][nes]      | ✅               | ⬜           | ✅       | ⬜
 [Nintendo Gameboy (mGBA)][gameboy]                | ✅               | ⬜           | ✅       | ⬜
-[Nintendo GameCube (Dolphin)][ncube]              | ✅               | ⬜           | ❌       | ⬜
+[Nintendo GameCube (Dolphin)][ncube]              | ✅               | ⬜           | ✅       | ⬜
 [Nintendo Wii (Dolphin)][nwii]                    | ✅               | ⬜           | ❌       | ⬜
 [Nintendo Wii U (Cemu)][nwiiu]                    | ✅               | ⬜           | ✅       | ⬜
 [Super Nintendo Entertainment System (Bsnes)][snes] | ✅               | ⬜           | ✅       | ⬜
