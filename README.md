@@ -43,12 +43,12 @@ Service                                           | Install & Launch | Achieveme
 Xbox                                              | ✅               | ✅           | ✅       | ✅
 ***Friends of Galaxy***
 [Battle.net][battlenet]                           | ✅               | ❌           | ❌       | ✅
+[Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
 [Epic Games Store][epic]                          | ✅               | ⬜           | ✅       | ✅
 [Origin][origin]                                  | ✅               | ✅           | ✅       | ✅
 [PSN][psn]                                        | ❌               | ✅           | ❌       | ✅
 [Steam][steam]                                    | ✅               | ✅           | ✅       | ✅
 [Uplay][uplay]                                    | ✅               | ❌           | ✅       | ✅
-[Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
 ***Community, Stores***
 [Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
 [Itch.io][itch]                                   | ⚠                | ⬜           | ⬜       | ⬜
