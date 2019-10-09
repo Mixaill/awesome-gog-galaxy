@@ -63,7 +63,7 @@ Xbox                                              | ✅               | ✅     
 [Touhou Project (thcrap)][touhou] (showed as Test)| ✅               | ⬜           | ❌       | ⬜
 ***Community, Emulators***
 [Nintendo 3DS (Citra)][3ds]                       | ✅               | ⬜           | ❌       | ⬜
-[Nintendo 64 (RetroArch)][n64]                    | ✅               | ⬜           | ❌       | ⬜
+[Nintendo 64 (RetroArch)][n64]                    | ✅               | ⬜           | ✅       | ⬜
 [Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜
 [Nintendo Entertainment System (Mesen)][nes]      | ✅               | ⬜           | ✅       | ⬜
 [Nintendo Gameboy (mGBA)][gameboy]                | ✅               | ⬜           | ✅       | ⬜
