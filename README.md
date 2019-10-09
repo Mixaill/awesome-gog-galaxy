@@ -63,6 +63,7 @@ Xbox                                              | ✅               | ✅     
 [Touhou Project (thcrap)][touhou] (showed as Test)| ✅               | ⬜           | ❌       | ⬜
 ***Community, Emulators***
 [Nintendo 3DS (Citra)][3ds]                       | ✅               | ⬜           | ❌       | ⬜
+[Nintendo 64 (RetroArch)][n64]                    | ✅               | ⬜           | ❌       | ⬜
 [Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜
 [Nintendo Entertainment System (Mesen)][nes]      | ✅               | ⬜           | ✅       | ⬜
 [Nintendo Gameboy (mGBA)][gameboy]                | ✅               | ⬜           | ✅       | ⬜
@@ -103,3 +104,4 @@ Xbox                                              | ✅               | ✅     
 [nes]: https://github.com/AHCoder/galaxy-integration-nes "Maintained by @AHCoder"
 [gameboy]: https://github.com/AHCoder/galaxy-integration-ngameboy "Maintained by @AHCoder"
 [snes]: https://github.com/AHCoder/galaxy-integration-snes "Maintained by @AHCoder"
+[n64]: https://github.com/Riku55/galaxy-integration-n64-RetroArch- "Maintained by @Riku55"
