@@ -50,6 +50,7 @@ Xbox                                              | ✅               | ✅     
 [Steam][steam]                                    | ✅               | ✅           | ✅       | ✅
 [Uplay][uplay]                                    | ✅               | ❌           | ✅       | ✅
 ***Community, Stores***
+[Discord][discord]                                | ✅               | ⬛           | ⬛       | ✅
 [Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
 [Itch.io][itch]                                   | ⚠                | ⬜           | ⬜       | ⬜
 [Rockstar Game Launcher][rockstar] (showed as Riot) | ⚠                | ❌           | ❌       | ✅
@@ -105,3 +106,4 @@ Xbox                                              | ✅               | ✅     
 [gameboy]: https://github.com/AHCoder/galaxy-integration-ngameboy "Maintained by @AHCoder"
 [snes]: https://github.com/AHCoder/galaxy-integration-snes "Maintained by @AHCoder"
 [n64]: https://github.com/Riku55/galaxy-integration-n64-RetroArch- "Maintained by @Riku55"
+[discord]: https://github.com/Ertego/gog-galaxy-discord "Maintained by @Ertego"
