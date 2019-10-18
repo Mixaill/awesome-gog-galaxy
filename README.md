@@ -29,7 +29,7 @@
   * Parametrized game launch ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/52#issuecomment-523540588), [2](https://www.reddit.com/r/gog/comments/d43ab3/suggestion_gog_galaxy_20_mark_games_owned/f0ezmkc/))
 
 ## Integrations
-Below are the integrations (**31** in total) and its features. Hover over links to see the maintainer.
+Below are the integrations (**32** in total) and its features. Hover over links to see the maintainer.
 * `✅` implemented
 * `❌` not implemented
 * `⬜` unsupported by the platform
@@ -46,6 +46,7 @@ Xbox                                              | ✅               | ✅     
 [Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
 [Epic Games Store][epic]                          | ✅               | ⬜           | ✅       | ✅
 [Origin][origin]                                  | ✅               | ✅           | ✅       | ✅
+[Paradox][paradox]                                | ⬛               | ⬛           | ⬛       | ⬛
 [PSN][psn]                                        | ❌               | ✅           | ❌       | ✅
 [Steam][steam]                                    | ✅               | ✅           | ✅       | ✅
 [Uplay][uplay]                                    | ✅               | ❌           | ✅       | ✅
@@ -107,3 +108,4 @@ Xbox                                              | ✅               | ✅     
 [snes]: https://github.com/AHCoder/galaxy-integration-snes "Maintained by @AHCoder"
 [n64]: https://github.com/Riku55/galaxy-integration-n64-RetroArch- "Maintained by @Riku55"
 [discord]: https://github.com/Ertego/gog-galaxy-discord "Maintained by @Ertego"
+[paradox]: https://github.com/FriendsOfGalaxy/galaxy-integration-paradox "Friends of Galaxy"
