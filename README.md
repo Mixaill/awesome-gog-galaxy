@@ -52,7 +52,7 @@ Xbox                                              | ✅               | ✅     
 [Uplay][uplay]                                    | ✅               | ❌           | ✅       | ✅
 ***Community, Stores***
 [Discord][discord]                                | ✅               | ⬛           | ⬛       | ✅
-[Humble Bundle][humble]                           | ❌               | ❌           | ❌       | ❌
+[Humble Bundle][humble]                           | ⚠               | ❌           | ❌       | ❌
 [Itch.io][itch]                                   | ⚠                | ⬜           | ⬜       | ⬜
 [Rockstar Game Launcher][rockstar] (showed as Riot) | ⚠                | ❌           | ❌       | ✅
 [Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
