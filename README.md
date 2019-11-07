@@ -59,7 +59,7 @@ Xbox                                              | ✅               | ✅     
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
 ***Community, Games***
 [Final Fantasy XIV][ffxiv]                        | ✅               | ❌           | ⬜       | ✅
-[Guild Wars 2][gw2]                               | ✅               | ⚠            | ✅       | ⬜
+[Guild Wars 2][gw2]                               | ✅               | ✅            | ✅       | ⬜
 [Minecraft][minecraft]                            | ⬛               | ⬛           | ⬛       | ⬛
 [Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
 [Touhou Project (thcrap)][touhou] (showed as Test)| ✅               | ⬜           | ❌       | ⬜
