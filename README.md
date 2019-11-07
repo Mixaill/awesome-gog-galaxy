@@ -54,7 +54,7 @@ Xbox                                              | ✅               | ✅     
 [Discord][discord]                                | ✅               | ⬛           | ⬛       | ✅
 [Humble Bundle][humble]                           | ⚠               | ❌           | ❌       | ❌
 [Itch.io][itch]                                   | ⚠                | ⬜           | ⬜       | ⬜
-[Rockstar Games Launcher][rockstar]               | ✅                | ❌           | ❌       | ✅
+[Rockstar Games Launcher][rockstar]               | ✅                | ❌           | ⚠       | ✅
 [Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
 ***Community, Games***
