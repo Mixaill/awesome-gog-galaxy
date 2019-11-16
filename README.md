@@ -48,13 +48,13 @@ Xbox                                              | ✅               | ✅     
 [Origin][origin]                                  | ✅               | ✅           | ✅       | ✅
 [Paradox][paradox]                                | ⬛               | ⬛           | ⬛       | ⬛
 [PSN][psn]                                        | ❌               | ✅           | ❌       | ✅
+[Rockstar Games Launcher][rockstar]               | ✅                | ❌           | ⚠       | ✅
 [Steam][steam]                                    | ✅               | ✅           | ✅       | ✅
 [Uplay][uplay]                                    | ✅               | ❌           | ✅       | ✅
 ***Community, Stores***
 [Discord][discord]                                | ✅               | ⬛           | ⬛       | ✅
 [Humble Bundle][humble]                           | ⚠               | ❌           | ❌       | ❌
 [Itch.io][itch]                                   | ⚠                | ⬜           | ⬜       | ⬜
-[Rockstar Games Launcher][rockstar]               | ✅                | ❌           | ⚠       | ✅
 [Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
 [Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
 ***Community, Games***
@@ -101,7 +101,7 @@ Xbox                                              | ✅               | ✅     
 [nwiiu]: https://github.com/LeonardFiedrowicz/galaxy-integration-cemu "Maintained by @LeonardFiedrowicz"
 [ps3]: https://github.com/mpm11011/galaxy-integration-rpcs3 "Maintained by @mpm11011"
 [itch]: https://github.com/Ertego/gog-galaxy-itch.io "Maintained by @Ertego"
-[rockstar]: https://github.com/tylerbrawl/Galaxy-Plugin-Rockstar "Maintained by @tylerbrawl"
+[rockstar]: https://github.com/FriendsOfGalaxy/galaxy-integration-rockstar "Friends of Galaxy"
 [touhou]: https://gitlab.com/PookaMustard/thcrap-plugin-for-galaxy-2.0 "Maintained by @PookaMustard"
 [nes]: https://github.com/AHCoder/galaxy-integration-nes "Maintained by @AHCoder"
 [gameboy]: https://github.com/AHCoder/galaxy-integration-ngameboy "Maintained by @AHCoder"
