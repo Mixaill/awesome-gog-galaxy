@@ -2,7 +2,7 @@
 name: Integration request
 about: Ask developers to create a new integration
 title: '<integration name>'
-labels: 'integration request'
+labels: 'integration-request'
 assignees: ''
 
 ---
