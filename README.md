@@ -16,15 +16,16 @@
 
 ## Galaxy 2.0 Upcoming features
 
+* Completed
+  * Integrations search and management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/20#issuecomment-511233784), [2](https://github.com/gogcom/galaxy-integrations-python-api/issues/49#issuecomment-522331088), [3](https://www.resetera.com/threads/gog-galaxy-2-0-is-a-game-changer.139162/page-3#post-24918760))
+  * Game deduplication ([1](https://www.reddit.com/r/gog/comments/d5gzld/i_hope_we_can_get_a_better_solution_for/f0m2cb9/))
 * In backlog / In progress
   * Chat and friends list for integrations ([1](https://github.com/gogcom/galaxy-integrations-python-api/commit/223adf6a384c438552be697467c9495dc591c448#commitcomment-34429833))
   * DLC management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/23#issuecomment-512730026))
-  * Integrations search and management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/20#issuecomment-511233784), [2](https://github.com/gogcom/galaxy-integrations-python-api/issues/49#issuecomment-522331088), [3](https://www.resetera.com/threads/gog-galaxy-2-0-is-a-game-changer.139162/page-3#post-24918760))
   * Secret achievements ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/63#issuecomment-532543083))
 * Will be considered
   * Adding tags from the API ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/49#issuecomment-522331088))
   * Custom platforms ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/66#issuecomment-532571531))
-  * Game deduplication ([1](https://www.reddit.com/r/gog/comments/d5gzld/i_hope_we_can_get_a_better_solution_for/f0m2cb9/))
   * Game language management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/8#issuecomment-510074658))
   * Parametrized game launch ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/52#issuecomment-523540588), [2](https://www.reddit.com/r/gog/comments/d43ab3/suggestion_gog_galaxy_20_mark_games_owned/f0ezmkc/))
 
