@@ -12,6 +12,7 @@
 * GOG Galaxy Integrations Python API
    * Github repository https://github.com/gogcom/galaxy-integrations-python-api
    * PyPi package https://pypi.org/project/galaxy.plugin.api/
+   * Galaxy Utils from @tylerbrawl https://github.com/tylerbrawl/Galaxy-Utils
  * GOG Database https://www.gogdb.org/
 
 ## Galaxy 2.0 Upcoming features
