@@ -46,7 +46,7 @@ Xbox                                              | ⬜  | ✅               | �
 ***Community, Stores***
 [Battle.net][battlenet]                           | ✅  | ✅               | ❌           | ❌       | ✅           | ❌
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
-[Discord][discord]                                | ✅  | ✅               | ⬛           | ⬛       | ✅           | ❌
+[Discord][discord]                                | ✅  | ✅               | ❌           | ❌       | ✅           | ❌
 [Epic Games Store][epic]                          | ✅  | ✅               | ⬜           | ✅       | ✅           | ❌
 [Humble Bundle][humble]                           | ✅  | ⚠               | ❌           | ❌       | ⬜           | ⬜
 [Itch.io][itch]                                   | ✅  | ⚠               | ⬜           | ⬜       | ⬜           | ⬜
@@ -85,7 +85,9 @@ Xbox                                              | ⬜  | ✅               | �
 [psn]: https://github.com/FriendsOfGalaxy/galaxy-integration-psn "Friends of Galaxy"
 [steam]: https://github.com/FriendsOfGalaxy/galaxy-integration-steam "Friends of Galaxy"
 [uplay]: https://github.com/FriendsOfGalaxy/galaxy-integration-uplay "Friends of Galaxy"
-[bethesda]: https://github.com/FriendsOfGalaxy/galaxy-integration-bethesda "Friends of Galaxy"
+[paradox]: https://github.com/FriendsOfGalaxy/galaxy-integration-paradox "Friends of Galaxy"
+
+[bethesda]: https://github.com/TouwaStar/Galaxy_Plugin_Bethesda "Maintainted by @TouwaStar"
 [ffxiv]: https://github.com/RZetko/galaxy-integration-ffxiv "Maintainted by @RZetko"
 [gw2]: https://github.com/Mixaill/galaxy-integration-gw2 "Maintainted by @Mixaill"
 [humble]: https://github.com/UncleGoogle/galaxy-integration-humblebundle "Maintainted by @UncleGoogle"
@@ -102,11 +104,11 @@ Xbox                                              | ⬜  | ✅               | �
 [nwiiu]: https://github.com/LeonardFiedrowicz/galaxy-integration-cemu "Maintained by @LeonardFiedrowicz"
 [ps3]: https://github.com/mpm11011/galaxy-integration-rpcs3 "Maintained by @mpm11011"
 [itch]: https://github.com/Ertego/gog-galaxy-itch.io "Maintained by @Ertego"
-[rockstar]: https://github.com/FriendsOfGalaxy/galaxy-integration-rockstar "Friends of Galaxy"
+[rockstar]: https://github.com/tylerbrawl/Galaxy-Plugin-Rockstar "Maintained by @tylerbrawl"
 [touhou]: https://gitlab.com/PookaMustard/thcrap-plugin-for-galaxy-2.0 "Maintained by @PookaMustard"
 [nes]: https://github.com/AHCoder/galaxy-integration-nes "Maintained by @AHCoder"
 [gameboy]: https://github.com/AHCoder/galaxy-integration-ngameboy "Maintained by @AHCoder"
 [snes]: https://github.com/AHCoder/galaxy-integration-snes "Maintained by @AHCoder"
 [n64]: https://github.com/Riku55/galaxy-integration-n64-RetroArch- "Maintained by @Riku55"
 [discord]: https://github.com/Ertego/gog-galaxy-discord "Maintained by @Ertego"
-[paradox]: https://github.com/FriendsOfGalaxy/galaxy-integration-paradox "Friends of Galaxy"
+
