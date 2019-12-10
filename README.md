@@ -39,45 +39,45 @@ Below are the integrations (**32** in total) and its features. Hover over links 
 * `⚠` in progress / works with issues
 
 
-Service                                           | Install & Launch | Achievements | Game Time | Friend Recmd.
-------------------------------------------------- | ---------------: | -----------: | --------: | ------------:
+Service                                           | Install & Launch | Achievements | Game Time | Friend Recmd. | Friend Presence
+------------------------------------------------- | ---------------: | -----------: | --------: | ------------: | ---------------:
 ***Official***
-Xbox                                              | ✅               | ✅           | ✅       | ✅
+Xbox                                              | ✅               | ✅           | ✅       | ✅           | ✅
 ***Friends of Galaxy***
-[Battle.net][battlenet]                           | ✅               | ❌           | ❌       | ✅
-[Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜
-[Epic Games Store][epic]                          | ✅               | ⬜           | ✅       | ✅
-[Origin][origin]                                  | ✅               | ✅           | ✅       | ✅
-[Paradox][paradox]                                | ⬛               | ⬛           | ⬛       | ⬛
-[PSN][psn]                                        | ❌               | ✅           | ❌       | ✅
-[Rockstar Games Launcher][rockstar]               | ✅                | ❌           | ⚠       | ✅
-[Steam][steam]                                    | ✅               | ✅           | ✅       | ✅
-[Uplay][uplay]                                    | ✅               | ❌           | ✅       | ✅
+[Battle.net][battlenet]                           | ✅               | ❌           | ❌       | ✅           | ❌
+[Bethesda.net][bethesda]                          | ✅               | ⬜           | ⬜       | ⬜           | ⬜
+[Epic Games Store][epic]                          | ✅               | ⬜           | ✅       | ✅           | ❌
+[Origin][origin]                                  | ✅               | ✅           | ✅       | ✅           | ❌
+[Paradox][paradox]                                | ✅               | ❌           | ❌       | ❌           | ❌
+[PSN][psn]                                        | ❌               | ✅           | ❌       | ✅           | ✅
+[Rockstar Games Launcher][rockstar]               | ✅               | ❌           | ⚠       | ✅           | ❌
+[Steam][steam]                                    | ✅               | ✅           | ✅       | ✅           | ✅
+[Uplay][uplay]                                    | ✅               | ❌           | ✅       | ✅           | ❌
 ***Community, Stores***
-[Discord][discord]                                | ✅               | ⬛           | ⬛       | ✅
-[Humble Bundle][humble]                           | ⚠               | ❌           | ❌       | ❌
-[Itch.io][itch]                                   | ⚠                | ⬜           | ⬜       | ⬜
-[Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌
-[Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅
+[Discord][discord]                                | ✅               | ⬛           | ⬛       | ✅           | ❌
+[Humble Bundle][humble]                           | ⚠               | ❌           | ❌       | ⬜           | ⬜
+[Itch.io][itch]                                   | ⚠               | ⬜           | ⬜       | ⬜           | ⬜
+[Twitch.tv][twitch]                               | ✅               | ❌           | ❌       | ❌           | ❌
+[Wargaming.net][wargaming]                        | ✅               | ❌           | ⬜       | ✅           | ⚠
 ***Community, Games***
-[Final Fantasy XIV][ffxiv]                        | ✅               | ❌           | ⬜       | ✅
-[Guild Wars 2][gw2]                               | ✅               | ✅            | ✅       | ⬜
-[Minecraft][minecraft]                            | ⬛               | ⬛           | ⬛       | ⬛
-[Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌
-[Touhou Project (thcrap)][touhou] (showed as Test)| ✅               | ⬜           | ❌       | ⬜
+[Final Fantasy XIV][ffxiv]                        | ✅               | ❌           | ⬜       | ✅           | ❌
+[Guild Wars 2][gw2]                               | ✅               | ✅           | ✅       | ⬜           | ⬜
+[Minecraft][minecraft]                            | ⬛               | ⬛           | ⬛       | ⬛           | ❌
+[Path of Exile][pathofexile]                      | ✅               | ✅           | ❌       | ❌           | ❌
+[Touhou Project (thcrap)][touhou] (showed as Test)| ✅               | ⬜           | ❌       | ⬜           | ⬜
 ***Community, Emulators***
-[Nintendo 3DS (Citra)][3ds]                       | ✅               | ⬜           | ❌       | ⬜
-[Nintendo 64 (RetroArch)][n64]                    | ✅               | ⬜           | ✅       | ⬜
-[Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜
-[Nintendo Entertainment System (Mesen)][nes]      | ✅               | ⬜           | ✅       | ⬜
-[Nintendo Gameboy (mGBA)][gameboy]                | ✅               | ⬜           | ✅       | ⬜
-[Nintendo GameCube (Dolphin)][ncube]              | ✅               | ⬜           | ✅       | ⬜
-[Nintendo Wii (Dolphin)][nwii]                    | ✅               | ⬜           | ✅       | ⬜
-[Nintendo Wii U (Cemu)][nwiiu]                    | ✅               | ⬜           | ✅       | ⬜
-[Super Nintendo Entertainment System (Bsnes)][snes] | ✅               | ⬜           | ✅       | ⬜
-[Sony PlayStation Portable][psp]                  | ✅               | ⬜           | ❌       | ❌
-[Sony PlayStation 2 (PCSX2)][ps2]                 | ✅               | ⬜           | ✅       | ⬜
-[Sony PlayStation 3 (RPCS3)][ps3] (showed as ColecoVision) | ✅               | ❌           | ✅       | ⬜
+[Nintendo 3DS (Citra)][3ds]                       | ✅               | ⬜           | ❌       | ⬜           | ⬜
+[Nintendo 64 (RetroArch)][n64]                    | ✅               | ⬜           | ✅       | ⬜           | ⬜
+[Nintendo DS][nds]                                | ✅               | ⬜           | ❌       | ⬜           | ⬜
+[Nintendo Entertainment System (Mesen)][nes]      | ✅               | ⬜           | ✅       | ⬜           | ⬜
+[Nintendo Gameboy (mGBA)][gameboy]                | ✅               | ⬜           | ✅       | ⬜           | ⬜
+[Nintendo GameCube (Dolphin)][ncube]              | ✅               | ⬜           | ✅       | ⬜           | ⬜
+[Nintendo Wii (Dolphin)][nwii]                    | ✅               | ⬜           | ✅       | ⬜           | ⬜
+[Nintendo Wii U (Cemu)][nwiiu]                    | ✅               | ⬜           | ✅       | ⬜           | ⬜
+[Super Nintendo Entertainment System (Bsnes)][snes] | ✅               | ⬜           | ✅       | ⬜           | ⬜
+[Sony PlayStation Portable][psp]                  | ✅               | ⬜           | ❌       | ❌           | ❌
+[Sony PlayStation 2 (PCSX2)][ps2]                 | ✅               | ⬜           | ✅       | ⬜           | ⬜
+[Sony PlayStation 3 (RPCS3)][ps3] (showed as ColecoVision) | ✅               | ❌           | ✅       | ⬜| ⬜
 
 
 [battlenet]: https://github.com/FriendsOfGalaxy/galaxy-integration-battlenet "Friends of Galaxy"
