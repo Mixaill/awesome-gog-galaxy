@@ -61,7 +61,7 @@ Xbox                                              | ⬜  | ✅               | �
 ***Community, Games***
 [Final Fantasy XIV][ffxiv]                        | ❌  | ✅               | ❌           | ⬜       | ✅           | ❌
 [Guild Wars 2][gw2]                               | ✅  | ✅               | ✅           | ✅       | ⬜           | ⬜
-[Minecraft][minecraft]                            | ✅  | ⬛               | ⬛           | ⬛       | ⬛           | ❌
+[Minecraft][minecraft]                            | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Path of Exile][pathofexile]                      | ✅  | ✅               | ✅           | ❌       | ❌           | ❌
 [Touhou Project (thcrap)][touhou] (showed as Test)| ❌  | ✅               | ⬜           | ❌       | ⬜           | ⬜
 ***Community, Emulators***
