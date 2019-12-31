@@ -71,6 +71,7 @@ Xbox                                              | ⬜  | ✅               | �
 [Nintendo Entertainment System (Mesen)][nes]      | ❌  | ✅               | ⬜           | ✅       | ⬜           | ⬜
 [Nintendo Gameboy (mGBA)][gameboy]                | ❌  | ✅               | ⬜           | ✅       | ⬜           | ⬜
 [Nintendo GameCube (Dolphin)][ncube]              | ❌  | ✅               | ⬜           | ✅       | ⬜           | ⬜
+[Nintendo Switch (Yuzu)][nswitch]                 | ❌  | ✅               | ⬜           | ❌       | ⬜           | ⬜
 [Nintendo Wii (Dolphin)][nwii]                    | ❌  | ✅               | ⬜           | ✅       | ⬜           | ⬜
 [Nintendo Wii U (Cemu)][nwiiu]                    | ❌  | ✅               | ⬜           | ✅       | ⬜           | ⬜
 [Super Nintendo Entertainment System (Bsnes)][snes] | ❌  | ✅               | ⬜           | ✅       | ⬜           | ⬜
@@ -111,4 +112,5 @@ Xbox                                              | ⬜  | ✅               | �
 [snes]: https://github.com/AHCoder/galaxy-integration-snes "Maintained by @AHCoder"
 [n64]: https://github.com/Riku55/galaxy-integration-n64-RetroArch- "Maintained by @Riku55"
 [discord]: https://github.com/Ertego/gog-galaxy-discord "Maintained by @Ertego"
+[nswitch]: https://github.com/LeonardFiedrowicz/galaxy-integration-yuzu "Maintained by @LeonardFiedrowicz"
 
