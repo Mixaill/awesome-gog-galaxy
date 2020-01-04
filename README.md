@@ -39,7 +39,7 @@ Below are the integrations (**32** in total) and its features. Hover over links 
 * `⚠` in progress / works with issues
 
 
-Service                                           | FoG | Install & Launch | Achievements | Game Time | Friend Recmd. | Friend Presence
+Service                                           | [FoG](https://github.com/FriendsOfGalaxy) | Install & Launch | Achievements | Game Time | Friend Recmd. | Friend Presence
 ------------------------------------------------- | --: | ---------------: | -----------: | --------: | ------------: | ---------------:
 ***Official***
 Xbox                                              | ⬜  | ✅               | ✅           | ✅       | ✅           | ✅
