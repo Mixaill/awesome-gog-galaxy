@@ -6,7 +6,7 @@
 ## Utilities
 
 * Shortcut Creators
-   * [GOG Galaxy 2.0 Shortcut Creator](https://github.com/Megalex42/GOG-Galaxy-2.0-Shortcut-Creator] by @Megalex42
+   * [GOG Galaxy 2.0 Shortcut Creator](https://github.com/Megalex42/GOG-Galaxy-2.0-Shortcut-Creator) by @Megalex42
 * Integration Updaters
    * [GOG Integration Updater](https://github.com/Slashbunny/gog-galaxy-plugin-downloader) by @Slashbunny
    * [GOG Galaxy 2.0 Integrations Scoop Bucket](https://github.com/borger/scoop-galaxy-integrations) by @Borger
