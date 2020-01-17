@@ -83,7 +83,6 @@ Xbox                                              | ⬜  | ✅               | �
 [Sony PlayStation 3 (RPCS3)][ps3] (showed as ColecoVision) | ❌  | ✅               | ❌           | ✅       | ⬜| ⬜
 
 
-[battlenet]: https://github.com/FriendsOfGalaxy/galaxy-integration-battlenet "Friends of Galaxy"
 [epic]: https://github.com/FriendsOfGalaxy/galaxy-integration-epic "Friends of Galaxy"
 [origin]: https://github.com/FriendsOfGalaxy/galaxy-integration-origin "Friends of Galaxy"
 [psn]: https://github.com/FriendsOfGalaxy/galaxy-integration-psn "Friends of Galaxy"
@@ -91,6 +90,7 @@ Xbox                                              | ⬜  | ✅               | �
 [uplay]: https://github.com/FriendsOfGalaxy/galaxy-integration-uplay "Friends of Galaxy"
 [paradox]: https://github.com/FriendsOfGalaxy/galaxy-integration-paradox "Friends of Galaxy"
 
+[battlenet]: https://github.com/bartok765/galaxy_blizzard_plugin "Maintained by @bartok765"
 [bethesda]: https://github.com/TouwaStar/Galaxy_Plugin_Bethesda "Maintainted by @TouwaStar"
 [ffxiv]: https://github.com/RZetko/galaxy-integration-ffxiv "Maintainted by @RZetko"
 [gw2]: https://github.com/Mixaill/galaxy-integration-gw2 "Maintainted by @Mixaill"
