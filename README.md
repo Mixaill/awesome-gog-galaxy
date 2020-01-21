@@ -42,7 +42,7 @@ Below are the integrations (**32** in total) and its features. Hover over links 
 * `⚠` in progress / works with issues
 
 
-Service                                           | [FoG](https://github.com/FriendsOfGalaxy) | Install & Launch | Achievements | Game Time | Friend Recmd. | Friend Presence
+Service                                           | [In built-in search][fog] | Install & Launch | Achievements | Game Time | Friend Recmd. | Friend Presence
 ------------------------------------------------- | --: | ---------------: | -----------: | --------: | ------------: | ---------------:
 ***Official***
 Xbox                                              | ⬜  | ✅               | ✅           | ✅       | ✅           | ✅
@@ -82,7 +82,7 @@ Xbox                                              | ⬜  | ✅               | �
 [Sony PlayStation 2 (PCSX2)][ps2]                 | ❌  | ✅               | ⬜           | ✅       | ⬜           | ⬜
 [Sony PlayStation 3 (RPCS3)][ps3] (showed as ColecoVision) | ❌  | ✅               | ❌           | ✅       | ⬜| ⬜
 
-
+[fog]: https://github.com/FriendsOfGalaxy "Friends of Galaxy"
 [epic]: https://github.com/FriendsOfGalaxy/galaxy-integration-epic "Friends of Galaxy"
 [origin]: https://github.com/FriendsOfGalaxy/galaxy-integration-origin "Friends of Galaxy"
 [psn]: https://github.com/FriendsOfGalaxy/galaxy-integration-psn "Friends of Galaxy"
