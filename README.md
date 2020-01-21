@@ -49,20 +49,20 @@ Xbox                                              | ⬜  | ✅               | �
 ***Community, Stores***
 [Battle.net][battlenet]                           | ✅  | ✅               | ❌           | ❌       | ✅           | ❌
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
-[Discord][discord]                                | ✅  | ✅               | ❌           | ❌       | ✅           | ❌
+[Discord][discord]                                | ❌  | ✅               | ❌           | ❌       | ✅           | ❌
 [Epic Games Store][epic]                          | ✅  | ✅               | ⬜           | ✅       | ✅           | ❌
 [Humble Bundle][humble]                           | ✅  | ⚠               | ❌           | ❌       | ⬜           | ⬜
-[Itch.io][itch]                                   | ✅  | ⚠               | ⬜           | ⬜       | ⬜           | ⬜
+[Itch.io][itch]                                   | ❌  | ⚠               | ⬜           | ⬜       | ⬜           | ⬜
 [Origin][origin]                                  | ✅  | ✅               | ✅           | ✅       | ✅           | ❌
 [Paradox][paradox]                                | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [PSN][psn]                                        | ✅  | ❌               | ✅           | ❌       | ✅           | ✅
 [Rockstar Games Launcher][rockstar]               | ✅  | ✅               | ❌           | ⚠       | ✅           | ❌
 [Steam][steam]                                    | ✅  | ✅               | ✅           | ✅       | ✅           | ✅
-[Twitch.tv][twitch]                               | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
+[Twitch.tv][twitch]                               | ❌  | ✅               | ❌           | ❌       | ❌           | ❌
 [Uplay][uplay]                                    | ✅  | ✅               | ❌           | ✅       | ✅           | ❌
 [Wargaming.net][wargaming]                        | ✅  | ✅               | ❌           | ⚠       | ✅           | ⚠
 ***Community, Games***
-[Final Fantasy XIV][ffxiv]                        | ❌  | ✅               | ❌           | ⬜       | ✅           | ❌
+[Final Fantasy XIV][ffxiv]                        | ✅  | ✅               | ❌           | ⬜       | ✅           | ❌
 [Guild Wars 2][gw2]                               | ✅  | ✅               | ✅           | ✅       | ⬜           | ⬜
 [Minecraft][minecraft]                            | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Path of Exile][pathofexile]                      | ✅  | ✅               | ✅           | ❌       | ❌           | ❌
