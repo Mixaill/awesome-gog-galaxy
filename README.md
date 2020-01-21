@@ -62,7 +62,7 @@ Xbox                                              | ⬜  | ✅               | �
 [Uplay][uplay]                                    | ✅  | ✅               | ❌           | ✅       | ✅           | ❌
 [Wargaming.net][wargaming]                        | ✅  | ✅               | ❌           | ⚠       | ✅           | ⚠
 ***Community, Games***
-[Final Fantasy XIV][ffxiv]                        | ✅  | ✅               | ❌           | ⬜       | ✅           | ❌
+[Final Fantasy XIV][ffxiv]                        | ❌  | ✅               | ❌           | ⬜       | ✅           | ❌
 [Guild Wars 2][gw2]                               | ✅  | ✅               | ✅           | ✅       | ⬜           | ⬜
 [Minecraft][minecraft]                            | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Path of Exile][pathofexile]                      | ✅  | ✅               | ✅           | ❌       | ❌           | ❌
