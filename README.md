@@ -47,7 +47,7 @@ Service                                           | [In built-in search][fog] | 
 ***Official***
 Xbox                                              | ⬜  | ✅               | ✅           | ✅       | ✅           | ✅
 ***Community, Stores***
-[Battle.net][battlenet]                           | ✅  | ✅               | ❌           | ❌       | ✅           | ❌
+[Battle.net][battlenet]                           | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Discord][discord]                                | ❌  | ✅               | ❌           | ❌       | ✅           | ❌
 [Epic Games Store][epic]                          | ✅  | ✅               | ⬜           | ✅       | ✅           | ❌
