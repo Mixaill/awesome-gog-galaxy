@@ -56,7 +56,7 @@ Xbox                                              | ⬜  | ✅               | �
 [Origin][origin]                                  | ✅  | ✅               | ✅           | ✅       | ✅           | ❌
 [Paradox][paradox]                                | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [PSN][psn]                                        | ✅  | ❌               | ✅           | ❌       | ✅           | ✅
-[Rockstar Games Launcher][rockstar]               | ✅  | ✅               | ❌           | ⚠       | ✅           | ❌
+[Rockstar Games Launcher][rockstar]               | ✅  | ✅               | ✅           | ⚠       | ✅           | ❌
 [Steam][steam]                                    | ✅  | ✅               | ✅           | ✅       | ✅           | ✅
 [Twitch.tv][twitch]                               | ❌  | ✅               | ❌           | ❌       | ❌           | ❌
 [Uplay][uplay]                                    | ✅  | ✅               | ❌           | ✅       | ✅           | ❌
