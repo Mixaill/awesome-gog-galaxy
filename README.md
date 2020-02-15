@@ -5,6 +5,8 @@
 
 ## Utilities
 
+* Alternative clients
+   * [MiniGalaxy](https://github.com/sharkwouter/minigalaxy) by @sharkwouter.
 * Shortcut Creators
    * [GOG Galaxy 2.0 Shortcut Creator](https://github.com/Megalex42/GOG-Galaxy-2.0-Shortcut-Creator) by @Megalex42
 * Integration Updaters
