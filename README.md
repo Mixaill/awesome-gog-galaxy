@@ -70,6 +70,7 @@ Xbox                                              | ⬜  | ✅               | �
 [Path of Exile][pathofexile]                      | ✅  | ✅               | ✅           | ❌       | ❌           | ❌
 [Touhou Project (thcrap)][touhou] (showed as Test)| ❌  | ✅               | ⬜           | ❌       | ⬜           | ⬜
 ***Community, Emulators***
+[RetroArch][retroarch]                            | ❌  | ✅               | ⬜           | ✅       | ⬜           | ⬜
 [Nintendo 3DS (Citra)][3ds]                       | ❌  | ✅               | ⬜           | ❌       | ⬜           | ⬜
 [Nintendo 64 (RetroArch)][n64]                    | ❌  | ✅               | ⬜           | ✅       | ⬜           | ⬜
 [Nintendo DS][nds]                                | ❌  | ✅               | ⬜           | ❌       | ⬜           | ⬜
@@ -118,4 +119,4 @@ Xbox                                              | ⬜  | ✅               | �
 [n64]: https://github.com/Riku55/galaxy-integration-n64-RetroArch- "Maintained by @Riku55"
 [discord]: https://github.com/Ertego/gog-galaxy-discord "Maintained by @Ertego"
 [nswitch]: https://github.com/LeonardFiedrowicz/galaxy-integration-yuzu "Maintained by @LeonardFiedrowicz"
-
+[retroarch]: https://github.com/jshackles/RetroGOG "Maintained by @jshackles"
