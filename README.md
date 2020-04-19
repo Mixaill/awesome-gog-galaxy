@@ -35,6 +35,16 @@
   * Game language management ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/8#issuecomment-510074658))
   * Parametrized game launch ([1](https://github.com/gogcom/galaxy-integrations-python-api/issues/52#issuecomment-523540588), [2](https://www.reddit.com/r/gog/comments/d43ab3/suggestion_gog_galaxy_20_mark_games_owned/f0ezmkc/))
 
+## Installation and Debugging
+
+* Integrations location
+   * Windows: `%LOCALAPPDATA%\GOG.com\Galaxy\plugins\installed`
+   * macOS: `~/Library/Application\ Support/GOG.com/Galaxy/plugins/installed`
+   
+* Log location
+   * Windows: `C:\ProgramData\GOG.com\Galaxy\logs\`
+   * macOS: `/Users/Shared/GOG.com/Galaxy/Logs`
+
 ## Integrations
 Below are the integrations (**32** in total) and its features. Hover over links to see the maintainer.
 * `✅` implemented
