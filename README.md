@@ -49,7 +49,7 @@
 Below are the integrations (**32** in total) and its features. Hover over links to see the maintainer.
 * `✅` implemented
 * `⬜` not implemented
-* `**ⁿ/ₐ**` unsupported by the platform
+* `ⁿ/ₐ` unsupported by the platform
 * `⬛` insufficient information
 * `⚠` works with issues
 
@@ -60,19 +60,19 @@ Service                                           | [In built-in search][fog] | 
 Xbox                                              | **ⁿ/ₐ**  | ✅               | ✅           | ✅       | ✅           | ✅
 ***Community, Stores***
 [Battle.net][battlenet]                           | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
-[Bethesda.net][bethesda]                          | ✅  | ✅               | **ⁿ/ₐ**           | **ⁿ/ₐ**       | **ⁿ/ₐ**           | **ⁿ/ₐ**
+[Bethesda.net][bethesda]                          | ✅  | ✅               | ⁿ/ₐ           | **ⁿ/ₐ**       | **ⁿ/ₐ**           | **ⁿ/ₐ**
 [Discord][discord]                                | ⬜  | ✅               | ⬜           | ⬜       | ✅           | ⬜
 [Epic Games Store][epic]                          | ✅  | ✅               | **ⁿ/ₐ**           | ✅       | ✅           | ⬜
-[Humble Bundle][humble]                           | ✅  | ⚠               | ⬜           | ⬜       | **ⁿ/ₐ**           | **ⁿ/ₐ**
-[Itch.io][itch]                                   | ⬜  | ⚠               | **ⁿ/ₐ**           | **ⁿ/ₐ**       | **ⁿ/ₐ**           | **ⁿ/ₐ**
+[Humble Bundle][humble]                           | ✅  | ⚠                | ⬜           | ⬜       | **ⁿ/ₐ**           | **ⁿ/ₐ**
+[Itch.io][itch]                                   | ⬜  | ⚠                | **ⁿ/ₐ**           | **ⁿ/ₐ**       | **ⁿ/ₐ**           | **ⁿ/ₐ**
 [Origin][origin]                                  | ✅  | ✅               | ✅           | ✅       | ✅           | ⬜
 [Paradox][paradox]                                | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [PSN][psn]                                        | ✅  | ⬜               | ✅           | ⬜       | ✅           | ✅
-[Rockstar Games Launcher][rockstar]               | ✅  | ✅               | ✅           | ⚠       | ✅           | ⬜
+[Rockstar Games Launcher][rockstar]               | ✅  | ✅               | ✅           | ⚠        | ✅           | ⬜
 [Steam][steam]                                    | ✅  | ✅               | ✅           | ✅       | ✅           | ✅
 [Twitch.tv][twitch]                               | ⬜  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Uplay][uplay]                                    | ✅  | ✅               | ⬜           | ✅       | ✅           | ⬜
-[Wargaming.net][wargaming]                        | ✅  | ✅               | ⬜           | ⚠       | ✅           | ⚠
+[Wargaming.net][wargaming]                        | ✅  | ✅               | ⬜           | ⚠        | ✅           | ⚠
 ***Community, Games***
 [Final Fantasy XIV][ffxiv]                        | ⬜  | ✅               | ⬜           | **ⁿ/ₐ**       | ✅           | ⬜
 [Guild Wars 2][gw2]                               | ✅  | ✅               | ✅           | ✅       | **ⁿ/ₐ**           | **ⁿ/ₐ**
