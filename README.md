@@ -60,7 +60,7 @@ Service                                           | [In built-in search][fog] | 
 Xbox                                              | **ⁿ/ₐ**  | ✅               | ✅           | ✅       | ✅           | ✅
 ***Community, Stores***
 [Battle.net][battlenet]                           | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
-[Bethesda.net][bethesda]                          | ✅  | ✅               | ⁿ/ₐ           | **ⁿ/ₐ**       | **ⁿ/ₐ**           | **ⁿ/ₐ**
+[Bethesda.net][bethesda]                          | ✅  | ✅               | **ⁿ/ₐ**           | **ⁿ/ₐ**       | **ⁿ/ₐ**           | **ⁿ/ₐ**
 [Discord][discord]                                | ⬜  | ✅               | ⬜           | ⬜       | ✅           | ⬜
 [Epic Games Store][epic]                          | ✅  | ✅               | **ⁿ/ₐ**           | ✅       | ✅           | ⬜
 [Humble Bundle][humble]                           | ✅  | ⚠                | ⬜           | ⬜       | **ⁿ/ₐ**           | **ⁿ/ₐ**
