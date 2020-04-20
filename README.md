@@ -65,7 +65,8 @@ Xbox                                              | **ⁿ/ₐ**  | ✅          
 [Epic Games Store][epic]                          | ✅  | ✅               | **ⁿ/ₐ**           | ✅       | ✅           | ⬜
 [Humble Bundle][humble]                           | ✅  | ⚠               | ⬜           | ⬜       | **ⁿ/ₐ**           | **ⁿ/ₐ**
 [Itch.io][itch]                                   | ⬜  | ⚠               | **ⁿ/ₐ**           | **ⁿ/ₐ**       | **ⁿ/ₐ**           | **ⁿ/ₐ**
-[Origin][origin]                                  | ✅  | ✅               | ✅           | ✅       | ✅           | ⬜ [Paradox][paradox]                                | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
+[Origin][origin]                                  | ✅  | ✅               | ✅           | ✅       | ✅           | ⬜
+[Paradox][paradox]                                | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [PSN][psn]                                        | ✅  | ⬜               | ✅           | ⬜       | ✅           | ✅
 [Rockstar Games Launcher][rockstar]               | ✅  | ✅               | ✅           | ⚠       | ✅           | ⬜
 [Steam][steam]                                    | ✅  | ✅               | ✅           | ✅       | ✅           | ✅
