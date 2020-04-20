@@ -49,7 +49,7 @@
 Below are the integrations (**32** in total) and its features. Hover over links to see the maintainer.
 * `✅` implemented
 * `⬜` not implemented
-* `ⁿ/ₐ` unsupported by the platform
+* `❌` unsupported by the platform
 * `⬛` insufficient information
 * `⚠` works with issues
 
