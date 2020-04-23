@@ -12,6 +12,8 @@
 * Integration Updaters
    * [GOG Integration Updater](https://github.com/Slashbunny/gog-galaxy-plugin-downloader) by @Slashbunny
    * [GOG Galaxy 2.0 Integrations Scoop Bucket](https://github.com/borger/scoop-galaxy-integrations) by @Borger
+* Data import/export
+   * [GOG Galaxy Export Script](https://github.com/AB1908/GOG-Galaxy-Export-Script) by @AB1908
 
 ## Resources
 * GOG Galaxy Integrations Python API
@@ -47,23 +49,24 @@
 
 ## Integrations
 Below are the integrations (**32** in total) and its features. Hover over links to see the maintainer.
-* `✅` implemented
-* `⬜` not implemented
-* `❌` unsupported by the platform
-* `⬛` insufficient information
-* `⚠` works with issues
+* ✅ implemented
+* ⬜ not implemented
+* ❌ unsupported by the platform
+* ⚠ works with issues
+* ⬛ insufficient information
 
 
 Service                                           | [In built-in search][fog] | Install & Launch | Achievements | Game Time | Friend Recmd. | Friend Presence
 ------------------------------------------------- | --: | ---------------: | -----------: | --------: | ------------: | ---------------:
 ***Official***
-Xbox                                              | ❌  | ✅               | ✅           | ✅       | ✅           | ✅
+Xbox                                              | ―  | ✅               | ✅           | ✅       | ✅           | ✅
 ***Community, Stores***
 [Battle.net][battlenet]                           | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Discord][discord]                                | ⬜  | ✅               | ⬜           | ⬜       | ✅           | ⬜
 [Epic Games Store][epic]                          | ✅  | ✅               | ❌           | ✅       | ✅           | ⬜
-[Humble Bundle][humble]                           | ✅  | ⚠                | ⬜           | ⬜       | ❌           | ❌
+[Humble Bundle][humble]                           | ✅  | ⚠                | ❌           | ⬜       | ❌           | ❌
+[IndieGala][indiegala]                            | ⬜  | ⬜               | ❌           | ❌       | ❌           | ❌
 [Itch.io][itch]                                   | ⬜  | ⚠                | ❌           | ❌       | ❌           | ❌
 [Origin][origin]                                  | ✅  | ✅               | ✅           | ✅       | ✅           | ⬜
 [Paradox][paradox]                                | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
@@ -107,7 +110,8 @@ Xbox                                              | ❌  | ✅               | �
 [bethesda]: https://github.com/TouwaStar/Galaxy_Plugin_Bethesda "Maintainted by @TouwaStar"
 [ffxiv]: https://github.com/RZetko/galaxy-integration-ffxiv "Maintainted by @RZetko"
 [gw2]: https://github.com/Mixaill/galaxy-integration-gw2 "Maintainted by @Mixaill"
-[humble]: https://github.com/UncleGoogle/galaxy-integration-humblebundle "Maintainted by @UncleGoogle"
+[humble]: https://github.com/UncleGoogle/galaxy-integration-humblebundle "Maintained by @UncleGoogle"
+[indiegala]: https://github.com/burnhamup/galaxy-integration-indiegala "Maintained by @Burnhamup"
 [pathofexile]: https://github.com/nyash-qq/galaxy-plugin-poe "Maintainted by @nyash-qq"
 [twitch]: https://github.com/nyash-qq/galaxy-plugin-twitch "Maintainted by @nyash-qq"
 [wargaming]: https://github.com/Mixaill/galaxy-integration-wargaming "Maintainted by @Mixaill"
