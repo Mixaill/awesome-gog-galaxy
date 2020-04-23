@@ -16,7 +16,7 @@ For example: http://somedeveloper.com/, previosly known as FantasticGames, creat
 **Integration type**
 single game / launcher / emulator / service / store / other / mixed? Describe if it is not obvious.
 
-**Present in [Galaxy API available integrations list](https://galaxy-integrations-python-api.readthedocs.io/en/latest/platforms.html)?**
+**Present in [Galaxy API available integrations list](https://github.com/gogcom/galaxy-integrations-python-api/blob/master/src/galaxy/api/consts.py#L4)?**
 yes / no
 
 **Supported platforms**
