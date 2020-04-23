@@ -96,7 +96,7 @@ Xbox                                              | ―  | ✅               | �
 [Super Nintendo Entertainment System (Bsnes)][snes] | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [Sony PlayStation Portable][psp]                  | ⬜  | ✅               | ❌           | ⬜       | ⬜           | ⬜
 [Sony PlayStation 2 (PCSX2)][ps2]                 | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
-[Sony PlayStation 3 (RPCS3)][ps3] (showed as ColecoVision) | ⬜  | ✅               | ⬜           | ✅       | ❌| ❌
+[Sony PlayStation 3 (RPCS3)][ps3] (showed as ColecoVision) | ⬜  | ✅               | ⬜           | ✅       | ❌|        ❌
 
 [fog]: https://github.com/FriendsOfGalaxy "Friends of Galaxy"
 [epic]: https://github.com/FriendsOfGalaxy/galaxy-integration-epic "Friends of Galaxy"
