@@ -12,7 +12,9 @@
 * Integration Updaters
    * [GOG Integration Updater](https://github.com/Slashbunny/gog-galaxy-plugin-downloader) by @Slashbunny
    * [GOG Galaxy 2.0 Integrations Scoop Bucket](https://github.com/borger/scoop-galaxy-integrations) by @Borger
-
+* Data import/export
+   * [GOG Galaxy Export Script](https://github.com/AB1908/GOG-Galaxy-Export-Script) by @AB1908
+  
 ## Resources
 * GOG Galaxy Integrations Python API
    * Github repository https://github.com/gogcom/galaxy-integrations-python-api
