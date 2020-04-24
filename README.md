@@ -1,7 +1,7 @@
 # Awesome GOG Galaxy
 
 ## Communication
-* Discord: https://discord.gg/372vxnZ
+* [GOG Café Discord](https://discord.gg/372vxnZ)
 
 ## Utilities
 
@@ -57,7 +57,7 @@ Below are the integrations (**32** in total) and its features. Hover over links 
 
 
 Service                                           | [In built-in search][fog] | Install & Launch | Achievements | Game Time | Friend Recmd. | Friend Presence
-------------------------------------------------- | --: | ---------------: | -----------: | --------: | ------------: | ---------------:
+:------------------------------------------------ | --: | ---------------: | -----------: | --------: | ------------: | ---------------:
 ***Official***
 Xbox                                              | ―  | ✅               | ✅           | ✅       | ✅           | ✅
 ***Community, Stores***
