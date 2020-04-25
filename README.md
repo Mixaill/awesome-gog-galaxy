@@ -83,6 +83,7 @@ Xbox                                              | ―  | ✅               | �
 [Path of Exile][pathofexile]                      | ✅  | ✅               | ✅           | ⬜       | ⬜           | ⬜
 [Touhou Project (thcrap)][touhou] (showed as Test)| ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 ***Community, Emulators***
+[DosBox][dosbox]                                  | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 [RetroArch][retroarch]                            | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [Nintendo 3DS (Citra)][3ds]                       | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 [Nintendo 64 (RetroArch)][n64]                    | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
@@ -108,6 +109,7 @@ Xbox                                              | ―  | ✅               | �
 
 [battlenet]: https://github.com/bartok765/galaxy_blizzard_plugin "Maintained by @bartok765"
 [bethesda]: https://github.com/TouwaStar/Galaxy_Plugin_Bethesda "Maintainted by @TouwaStar"
+[dosbox]: https://github.com/RoorMakurosu/galaxy-integration-dosbox "Maintained by @RoorMakurosu"
 [ffxiv]: https://github.com/RZetko/galaxy-integration-ffxiv "Maintainted by @RZetko"
 [gw2]: https://github.com/Mixaill/galaxy-integration-gw2 "Maintainted by @Mixaill"
 [humble]: https://github.com/UncleGoogle/galaxy-integration-humblebundle "Maintained by @UncleGoogle"
