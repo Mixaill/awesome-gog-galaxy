@@ -85,6 +85,7 @@ Xbox                                              | ―  | ✅               | �
 ***Community, Emulators***
 [DosBox][dosbox]                                  | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 [RetroArch][retroarch]                            | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
+[ScummVM][scummvm] (showed as Amigo)              | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 [Nintendo 3DS (Citra)][3ds]                       | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 [Nintendo 64 (RetroArch)][n64]                    | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [Nintendo DS][nds]                                | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
@@ -136,3 +137,4 @@ Xbox                                              | ―  | ✅               | �
 [discord]: https://github.com/Ertego/gog-galaxy-discord "Maintained by @Ertego"
 [nswitch]: https://github.com/LeonardFiedrowicz/galaxy-integration-yuzu "Maintained by @LeonardFiedrowicz"
 [retroarch]: https://github.com/jshackles/RetroGOG "Maintained by @jshackles"
+[scummvm]: https://github.com/micpp42/gog-galaxy-scummvm "Maintained by @micpp42"
