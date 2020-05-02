@@ -48,7 +48,7 @@
    * macOS: `/Users/Shared/GOG.com/Galaxy/Logs`
 
 ## Integrations
-Below are the integrations (**32** in total) and its features. Hover over links to see the maintainer.
+Below are the integrations (**37** in total) and its features. Hover over links to see the maintainer.
 * ✅ implemented
 * ⬜ not implemented
 * ❌ unsupported by the platform
@@ -58,9 +58,9 @@ Below are the integrations (**32** in total) and its features. Hover over links 
 
 Service                                           | [In built-in search][fog] | Install & Launch | Achievements | Game Time | Friend Recmd. | Friend Presence
 :------------------------------------------------ | --: | ---------------: | -----------: | --------: | ------------: | ---------------:
-***Official***
+***Official (1)***
 Xbox                                              | ―  | ✅               | ✅           | ✅       | ✅           | ✅
-***Community, Stores***
+***Community, Stores (15)***
 [Battle.net][battlenet]                           | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Discord][discord]                                | ⬜  | ✅               | ⬜           | ⬜       | ✅           | ⬜
@@ -76,13 +76,13 @@ Xbox                                              | ―  | ✅               | �
 [Twitch.tv][twitch]                               | ⬜  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Uplay][uplay]                                    | ✅  | ✅               | ⬜           | ✅       | ✅           | ⬜
 [Wargaming.net][wargaming]                        | ✅  | ✅               | ⬜           | ⚠        | ✅           | ⚠
-***Community, Games***
+***Community, Games (5)***
 [Final Fantasy XIV][ffxiv]                        | ⬜  | ✅               | ⬜           | ❌       | ✅           | ⬜
 [Guild Wars 2][gw2]                               | ✅  | ✅               | ✅           | ✅       | ❌           | ❌
 [Minecraft][minecraft]                            | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Path of Exile][pathofexile]                      | ✅  | ✅               | ✅           | ⬜       | ⬜           | ⬜
 [Touhou Project (thcrap)][touhou] (showed as Test)| ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
-***Community, Emulators***
+***Community, Emulators (16)***
 [DosBox][dosbox]                                  | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 [RetroArch][retroarch]                            | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [ScummVM][scummvm] (showed as Amigo)              | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
