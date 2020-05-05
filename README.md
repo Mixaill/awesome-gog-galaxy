@@ -48,7 +48,7 @@
    * macOS: `/Users/Shared/GOG.com/Galaxy/Logs`
 
 ## Integrations
-Below are the integrations (**37** in total) and its features. Hover over links to see the maintainer.
+Below are the integrations (**38** in total) and its features. Hover over links to see the maintainer.
 * ✅ implemented
 * ⬜ not implemented
 * ❌ unsupported by the platform
@@ -76,7 +76,7 @@ Xbox                                              | ―  | ✅               | �
 [Twitch.tv][twitch]                               | ⬜  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Uplay][uplay]                                    | ✅  | ✅               | ⬜           | ✅       | ✅           | ⬜
 [Wargaming.net][wargaming]                        | ✅  | ✅               | ⬜           | ⚠        | ✅           | ⚠
-***Community, Games (5)***
+***Community, Games (6)***
 [Final Fantasy XIV][ffxiv]                        | ⬜  | ✅               | ⬜           | ❌       | ✅           | ⬜
 [Guild Wars 2][gw2]                               | ✅  | ✅               | ✅           | ✅       | ❌           | ❌
 [Minecraft][minecraft]                            | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
