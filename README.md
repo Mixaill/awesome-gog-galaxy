@@ -80,6 +80,7 @@ Xbox                                              | ―  | ✅               | �
 [Final Fantasy XIV][ffxiv]                        | ⬜  | ✅               | ⬜           | ❌       | ✅           | ⬜
 [Guild Wars 2][gw2]                               | ✅  | ✅               | ✅           | ✅       | ❌           | ❌
 [Minecraft][minecraft]                            | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
+[osu!][osu] (showed as NewEgg)                    | ⬜  | ✅               | ⚠           | ✅       | ✅           | ⚠
 [Path of Exile][pathofexile]                      | ✅  | ✅               | ✅           | ⬜       | ⬜           | ⬜
 [Touhou Project (thcrap)][touhou] (showed as Test)| ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 ***Community, Emulators (16)***
@@ -138,3 +139,4 @@ Xbox                                              | ―  | ✅               | �
 [nswitch]: https://github.com/LeonardFiedrowicz/galaxy-integration-yuzu "Maintained by @LeonardFiedrowicz"
 [retroarch]: https://github.com/jshackles/RetroGOG "Maintained by @jshackles"
 [scummvm]: https://github.com/micpp42/gog-galaxy-scummvm "Maintained by @micpp42"
+[osu]: https://github.com/UncleGoogle/galaxy-integration-osu "Maintained by @UncleGoogle"
