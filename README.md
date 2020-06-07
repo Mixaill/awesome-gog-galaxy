@@ -71,6 +71,7 @@ Xbox                                              | ―  | ✅               | �
 [Origin][origin]                                  | ✅  | ✅               | ✅           | ✅       | ✅           | ⬜
 [Paradox][paradox]                                | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [PSN][psn]                                        | ✅  | ⬜               | ✅           | ⬜       | ✅           | ✅
+[Riot][riot]                                      | ⬜  | ✅               | ⬜           | ✅       | ⬜           | ⬜
 [Rockstar Games Launcher][rockstar]               | ✅  | ✅               | ✅           | ⚠        | ✅           | ⬜
 [Steam][steam]                                    | ✅  | ✅               | ✅           | ✅       | ✅           | ✅
 [Twitch.tv][twitch]                               | ⬜  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
@@ -140,3 +141,4 @@ Xbox                                              | ―  | ✅               | �
 [retroarch]: https://github.com/jshackles/RetroGOG "Maintained by @jshackles"
 [scummvm]: https://github.com/micpp42/gog-galaxy-scummvm "Maintained by @micpp42"
 [osu]: https://github.com/UncleGoogle/galaxy-integration-osu "Maintained by @UncleGoogle"
+[riot]: https://github.com/urwrstkn8mare/gog-riot-integration "Maintained by @urwrstkn8mare"
