@@ -48,7 +48,7 @@
    * macOS: `/Users/Shared/GOG.com/Galaxy/Logs`
 
 ## Integrations
-Below are the integrations (**38** in total) and its features. Hover over links to see the maintainer.
+Below are the integrations (**40** in total) and its features. Hover over links to see the maintainer.
 * ✅ implemented
 * ⬜ not implemented
 * ❌ unsupported by the platform
@@ -60,7 +60,7 @@ Service                                           | [In built-in search][fog] | 
 :------------------------------------------------ | --: | ---------------: | -----------: | --------: | ------------: | ---------------:
 ***Official (1)***
 Xbox                                              | ―  | ✅               | ✅           | ✅       | ✅           | ✅
-***Community, Stores (15)***
+***Community, Stores (16)***
 [Battle.net][battlenet]                           | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Discord][discord]                                | ⬜  | ✅               | ⬜           | ⬜       | ✅           | ⬜
@@ -84,6 +84,8 @@ Xbox                                              | ―  | ✅               | �
 [osu!][osu] (showed as NewEgg)                    | ⬜  | ✅               | ⚠           | ✅       | ✅           | ⚠
 [Path of Exile][pathofexile]                      | ✅  | ✅               | ✅           | ⬜       | ⬜           | ⬜
 [Touhou Project (thcrap)][touhou] (showed as Test)| ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
+***Community, Other (1)***
+[Generic importer][generic]                       | ⬜  | ✅               | ⬜           | ✅       | ⬜           | ⬜
 ***Community, Emulators (16)***
 [DosBox][dosbox]                                  | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 [RetroArch][retroarch]                            | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
@@ -142,3 +144,4 @@ Xbox                                              | ―  | ✅               | �
 [scummvm]: https://github.com/micpp42/gog-galaxy-scummvm "Maintained by @micpp42"
 [osu]: https://github.com/UncleGoogle/galaxy-integration-osu "Maintained by @UncleGoogle"
 [riot]: https://github.com/urwrstkn8mare/gog-riot-integration "Maintained by @urwrstkn8mare"
+[generic]: https://github.com/AndrewDWhite/GalaxyGenericImporterPlugin "Maintained by @AndrewDWhite"
