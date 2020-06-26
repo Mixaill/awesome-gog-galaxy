@@ -48,7 +48,7 @@
    * macOS: `/Users/Shared/GOG.com/Galaxy/Logs`
 
 ## Integrations
-Below are the integrations (**41** in total) and its features. Hover over links to see the maintainer.
+Below are the integrations (**42** in total) and its features. Hover over links to see the maintainer.
 * ✅ implemented
 * ⬜ not implemented
 * ❌ unsupported by the platform
@@ -60,7 +60,7 @@ Service                                           | [In built-in search][fog] | 
 :------------------------------------------------ | --: | ---------------: | -----------: | --------: | ------------: | ---------------:
 ***Official (1)***
 Xbox                                              | ―  | ✅               | ✅           | ✅       | ✅           | ✅
-***Community, Stores (17)***
+***Community, Stores (18)***
 [Battle.net][battlenet]                           | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Discord][discord]                                | ⬜  | ✅               | ⬜           | ⬜       | ✅           | ⬜
@@ -69,6 +69,7 @@ Xbox                                              | ―  | ✅               | �
 [IndieGala][indiegala]                            | ⬜  | ⬜               | ❌           | ❌       | ❌           | ❌
 [Itch.io (@Ertego)][itch-1]                       | ⬜  | ⚠                | ❌           | ❌       | ❌           | ❌
 [Itch.io (@tauqua)][itch-2]                       | ⬜  | ⚠                | ❌           | ❌       | ❌           | ❌
+[Itch.io (@freakrho)][itch-3]                     | ⬜  | ⚠                | ❌           | ❌       | ❌           | ❌
 [Origin][origin]                                  | ✅  | ✅               | ✅           | ✅       | ✅           | ⬜
 [Paradox][paradox]                                | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [PSN][psn]                                        | ✅  | ⬜               | ✅           | ⬜       | ✅           | ✅
@@ -147,3 +148,4 @@ Xbox                                              | ―  | ✅               | �
 [riot]: https://github.com/urwrstkn8mare/gog-riot-integration "Maintained by @urwrstkn8mare"
 [generic]: https://github.com/AndrewDWhite/GalaxyGenericImporterPlugin "Maintained by @AndrewDWhite"
 [itch-2]: https://github.com/tauqua/gog-galaxy-itch.io "Maintained by @tauqua"
+[itch-3]:  https://gitlab.com/freakrho/gog-galaxy-itch-integration "Maintained by @freakrho"
