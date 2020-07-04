@@ -21,6 +21,7 @@
    * PyPi package https://pypi.org/project/galaxy.plugin.api/
    * Galaxy Utils from @tylerbrawl https://github.com/tylerbrawl/Galaxy-Utils
  * GOG Database https://www.gogdb.org/
+ * Unofficial GOG.com API docs https://github.com/Yepoleb/gogapidocs
 
 ## Galaxy 2.0 Upcoming features
 
