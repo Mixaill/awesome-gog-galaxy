@@ -48,7 +48,7 @@
    * macOS: `/Users/Shared/GOG.com/Galaxy/Logs`
 
 ## Integrations
-Below are the integrations (**42** in total) and its features. Hover over links to see the maintainer.
+Below are the integrations (**43** in total) and its features. Hover over links to see the maintainer.
 * ✅ implemented
 * ⬜ not implemented
 * ❌ unsupported by the platform
@@ -60,7 +60,8 @@ Service                                           | [In built-in search][fog] | 
 :------------------------------------------------ | --: | ---------------: | -----------: | --------: | ------------: | ---------------:
 ***Official (1)***
 Xbox                                              | ―  | ✅               | ✅           | ✅       | ✅           | ✅
-***Community, Stores (18)***
+***Community, Stores (19)***
+[Amazon][amazon]                                  | ⬜  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Battle.net][battlenet]                           | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Discord][discord]                                | ⬜  | ✅               | ⬜           | ⬜       | ✅           | ⬜
@@ -148,4 +149,5 @@ Xbox                                              | ―  | ✅               | �
 [riot]: https://github.com/urwrstkn8mare/gog-riot-integration "Maintained by @urwrstkn8mare"
 [generic]: https://github.com/AndrewDWhite/GalaxyGenericImporterPlugin "Maintained by @AndrewDWhite"
 [itch-2]: https://github.com/tauqua/gog-galaxy-itch.io "Maintained by @tauqua"
-[itch-3]:  https://gitlab.com/freakrho/gog-galaxy-itch-integration "Maintained by @freakrho"
+[itch-3]: https://gitlab.com/freakrho/gog-galaxy-itch-integration "Maintained by @freakrho"
+[amazon]: https://github.com/Rall3n/galaxy-integration-amazon "Maintained by @Rall3n"
