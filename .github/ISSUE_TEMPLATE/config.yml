@@ -2,31 +2,46 @@ blank_issues_enabled: true
 contact_links:
   - name: Blizzard Launcher issue
     url: https://github.com/bartok765/galaxy_blizzard_plugin/issue
+    about:
   - name: Bethesda Launcher issue
     url: https://github.com/TouwaStar/Galaxy_Plugin_Bethesda/issues
+    about:
   - name: Epic Games Store issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-epic/issues
+    about:
   - name: Final Fantasy XIV issue
     url: https://github.com/RZetko/galaxy-integration-ffxiv
+    about:
   - name: Guild Wars 2 issue
     url: https://github.com/Mixaill/galaxy-integration-gw2/issues
+    about:
   - name: Humble Bundle issue
     url: https://github.com/UncleGoogle/galaxy-integration-humblebundle/issues
+    about:
   - name: Minecraft issue
     url: https://github.com/TouwaStar/Galaxy_Plugin_Minecraft/issues
+    about:
   - name: Origin issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-origin/issues
+    about:
   - name: Path of Exile issue
     url: https://github.com/nyash-qq/galaxy-plugin-poe/issues
+    about:
   - name: Paradox issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-paradox/issues
+    about:
   - name: Playstation Network issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-psn/issues
+    about:
   - name: Rockstar Games Launcher issue
     url: https://github.com/tylerbrawl/Galaxy-Plugin-Rockstar/issues
+    about:
   - name: Steam issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-steam/issues
+    about:
   - name: UPlay issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-uplay/issues
+    about:
   - name: Wargaming Game Center issue
     url: https://github.com/Mixaill/galaxy-integration-wargaming/issues
+    about:
