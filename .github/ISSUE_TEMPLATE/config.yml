@@ -5,43 +5,43 @@ contact_links:
     about: Create issue related to Blizzard Launcher integration
   - name: Bethesda Launcher issue
     url: https://github.com/TouwaStar/Galaxy_Plugin_Bethesda/issues
-    about:
+    about: Create issue related to Bethesda Launcher integration
   - name: Epic Games Store issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-epic/issues
-    about:
+    about: Create issue related to Epic Games Store integration
   - name: Final Fantasy XIV issue
     url: https://github.com/RZetko/galaxy-integration-ffxiv
-    about:
+    about: Create issue related to Final Fantasy XIV integration
   - name: Guild Wars 2 issue
     url: https://github.com/Mixaill/galaxy-integration-gw2/issues
-    about:
+    about: Create issue related to Guild Wars 2 integration
   - name: Humble Bundle issue
     url: https://github.com/UncleGoogle/galaxy-integration-humblebundle/issues
-    about:
+    about: Create issue related to Humble Bundle integration
   - name: Minecraft issue
     url: https://github.com/TouwaStar/Galaxy_Plugin_Minecraft/issues
-    about:
+    about: Create issue related to Humble Bundle integration
   - name: Origin issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-origin/issues
-    about:
+    about: Create issue related to Origin integration
   - name: Path of Exile issue
     url: https://github.com/nyash-qq/galaxy-plugin-poe/issues
-    about:
+    about: Create issue related to Path of Exile integration
   - name: Paradox issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-paradox/issues
-    about:
+    about: Create issue related to Paradox integration
   - name: Playstation Network issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-psn/issues
-    about:
+    about: Create issue related to Playstation Network integration
   - name: Rockstar Games Launcher issue
     url: https://github.com/tylerbrawl/Galaxy-Plugin-Rockstar/issues
-    about:
+    about: Create issue related to Rockstart Games Launcher integration
   - name: Steam issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-steam/issues
-    about:
+    about: Create issue related to Steam integration
   - name: UPlay issue
     url: https://github.com/FriendsOfGalaxy/galaxy-integration-uplay/issues
-    about:
+    about: Create issue related to UPlay integration
   - name: Wargaming Game Center issue
     url: https://github.com/Mixaill/galaxy-integration-wargaming/issues
-    about:
+    about: Create issue related to Wargaming Game Center integration
