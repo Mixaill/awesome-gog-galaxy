@@ -59,14 +59,14 @@ Below are the integrations (**43** in total) and its features. Hover over links 
 
 Service                                           | [In built-in search][fog] | Install & Launch | Achievements | Game Time | Friend Recmd. | Friend Presence
 :------------------------------------------------ | --: | ---------------: | -----------: | --------: | ------------: | ---------------:
-***Official (1)***
-Xbox                                              | ―  | ✅               | ✅           | ✅       | ✅           | ✅
-***Community, Stores (19)***
+***Official (2)***
+Epic Games Store                                  | ✅  | ✅               | ❌           | ✅       | ✅           | ⬜
+Xbox                                              | ✅  | ✅               | ✅           | ✅       | ✅           | ✅
+***Community, Stores (18)***
 [Amazon][amazon]                                  | ⬜  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Battle.net][battlenet]                           | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Discord][discord]                                | ⬜  | ✅               | ⬜           | ⬜       | ✅           | ⬜
-[Epic Games Store][epic]                          | ✅  | ✅               | ❌           | ✅       | ✅           | ⬜
 [Humble Bundle][humble]                           | ✅  | ⚠                | ❌           | ⬜       | ❌           | ❌
 [IndieGala][indiegala]                            | ⬜  | ⬜               | ❌           | ❌       | ❌           | ❌
 [Itch.io (@Ertego)][itch-1]                       | ⬜  | ⚠                | ❌           | ❌       | ❌           | ❌
@@ -109,13 +109,12 @@ Xbox                                              | ―  | ✅               | �
 [Sony PlayStation 3 (RPCS3)][ps3] (showed as ColecoVision) | ⬜  | ✅               | ⬜           | ✅       | ❌|        ❌
 
 [fog]: https://github.com/FriendsOfGalaxy "Friends of Galaxy"
-[epic]: https://github.com/FriendsOfGalaxy/galaxy-integration-epic "Friends of Galaxy"
+
 [origin]: https://github.com/FriendsOfGalaxy/galaxy-integration-origin "Friends of Galaxy"
 [psn]: https://github.com/FriendsOfGalaxy/galaxy-integration-psn "Friends of Galaxy"
 [steam]: https://github.com/FriendsOfGalaxy/galaxy-integration-steam "Friends of Galaxy"
 [uplay]: https://github.com/FriendsOfGalaxy/galaxy-integration-uplay "Friends of Galaxy"
 [paradox]: https://github.com/FriendsOfGalaxy/galaxy-integration-paradox "Friends of Galaxy"
-
 [battlenet]: https://github.com/bartok765/galaxy_blizzard_plugin "Maintained by @bartok765"
 [bethesda]: https://github.com/TouwaStar/Galaxy_Plugin_Bethesda "Maintainted by @TouwaStar"
 [dosbox]: https://github.com/RoorMakurosu/galaxy-integration-dosbox "Maintained by @RoorMakurosu"
