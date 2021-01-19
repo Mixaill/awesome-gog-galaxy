@@ -67,6 +67,7 @@ Xbox                                              | ✅  | ✅               | �
 [Battle.net][battlenet]                           | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Discord][discord]                                | ⬜  | ✅               | ⬜           | ⬜       | ✅           | ⬜
+[Fanatical][fanatical]                            | ⬜  | ⬜               | ❌           | ❌       | ❌           | ❌
 [Humble Bundle][humble]                           | ✅  | ⚠                | ❌           | ⬜       | ❌           | ❌
 [IndieGala][indiegala]                            | ⬜  | ⬜               | ❌           | ❌       | ❌           | ❌
 [Itch.io (@Ertego)][itch-1]                       | ⬜  | ⚠                | ❌           | ❌       | ❌           | ❌
@@ -151,3 +152,4 @@ Xbox                                              | ✅  | ✅               | �
 [itch-2]: https://github.com/tauqua/gog-galaxy-itch.io "Maintained by @tauqua"
 [itch-3]: https://gitlab.com/freakrho/gog-galaxy-itch-integration "Maintained by @freakrho"
 [amazon]: https://github.com/Rall3n/galaxy-integration-amazon "Maintained by @Rall3n"
+[fanatical]: https://github.com/nosyn00b/GOG2_Fanatical_Plugin "Maintained by @nosyn00b"
