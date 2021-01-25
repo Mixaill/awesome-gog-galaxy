@@ -95,7 +95,7 @@ Xbox                                              | ✅  | ✅               | �
 [DosBox][dosbox]                                  | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 [RetroArch][retroarch]                            | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [ScummVM][scummvm] (showed as Amigo)              | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
-[Nintendo 3DS (Citra)][3ds]                       | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
+[Nintendo 3DS (Citra)][3ds]                       | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [Nintendo 64 (RetroArch)][n64]                    | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [Nintendo DS][nds]                                | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 [Nintendo Entertainment System (Mesen)][nes]      | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
@@ -127,7 +127,7 @@ Xbox                                              | ✅  | ✅               | �
 [twitch]: https://github.com/nyash-qq/galaxy-plugin-twitch "Maintainted by @nyash-qq"
 [wargaming]: https://github.com/Mixaill/galaxy-integration-wargaming "Maintainted by @Mixaill"
 [minecraft]: https://github.com/TouwaStar/Galaxy_Plugin_Minecraft "Maintainted by @TouwaStar"
-[3ds]: https://github.com/j-selby/galaxy-integration-citra "Maintainted by @j-selby"
+[3ds]: https://github.com/LeonardFiedrowicz/galaxy-integration-citra "Maintainted by @LeonardFiedrowicz"
 [nds]: https://github.com/TBemme/galaxy-integration-nds "Maintainted by @TBemme"
 [ncube]: https://github.com/JTNDev/galaxy-integration-gc "Maintainted by @JTNDev"
 [nwii]: https://github.com/JTNDev/galaxy-integration-wii "Maintainted by @JTNDev"
