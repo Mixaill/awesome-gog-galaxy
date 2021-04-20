@@ -14,6 +14,8 @@
    * [GOG Galaxy 2.0 Integrations Scoop Bucket](https://github.com/borger/scoop-galaxy-integrations) by @Borger
 * Data import/export
    * [GOG Galaxy Export Script](https://github.com/AB1908/GOG-Galaxy-Export-Script) by @AB1908
+* Library comparison
+   * [GOG Galaxy Library Compare (gamatrix-gog)](https://github.com/eniklas/gamatrix-gog) by @eniklas
 
 ## Resources
 * GOG Galaxy Integrations Python API
