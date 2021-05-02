@@ -17,6 +17,10 @@
 * Library comparison
    * [GOG Galaxy Library Compare (gamatrix-gog)](https://github.com/eniklas/gamatrix-gog) by @eniklas
 
+## Skins
+
+* [GOG Violet](https://github.com/berryes/gog-violet) by @berryes
+
 ## Resources
 * GOG Galaxy Integrations Python API
    * Github repository https://github.com/gogcom/galaxy-integrations-python-api
