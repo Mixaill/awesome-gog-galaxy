@@ -66,7 +66,7 @@ Below are the integrations (**43** in total) and its features. Hover over links 
 Service                                           | [In built-in search][fog] | Install & Launch | Achievements | Game Time | Friend Recmd. | Friend Presence
 :------------------------------------------------ | --: | ---------------: | -----------: | --------: | ------------: | ---------------:
 ***Official (2)***
-Epic Games Store                                  | ✅  | ✅               | ❌           | ✅       | ✅           | ⬜
+Epic Games Store                                  | ✅  | ✅               | ⬜           | ✅       | ✅           | ⬜
 Xbox                                              | ✅  | ✅               | ✅           | ✅       | ✅           | ✅
 ***Community, Stores (18)***
 [Amazon][amazon]                                  | ⬜  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
