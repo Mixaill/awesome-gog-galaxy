@@ -69,7 +69,7 @@ Service                                           | [In built-in search][fog] | 
 Epic Games Store                                  | ✅  | ✅               | ⬜           | ✅       | ✅           | ⬜
 Xbox                                              | ✅  | ✅               | ✅           | ✅       | ✅           | ✅
 ***Community, Stores (18)***
-[Amazon][amazon]                                  | ⬜  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
+[Amazon][amazon]                                  | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 [Battle.net][battlenet]                           | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Discord][discord]                                | ⬜  | ✅               | ⬜           | ⬜       | ✅           | ⬜
