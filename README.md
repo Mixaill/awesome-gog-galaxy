@@ -69,7 +69,7 @@ Service                                           | [In built-in search][fog] | 
 Epic Games Store                                  | ✅  | ✅               | ⬜           | ✅       | ✅           | ⬜
 Xbox                                              | ✅  | ✅               | ✅           | ✅       | ✅           | ✅
 ***Community, Stores (18)***
-[Amazon][amazon]                                  | ⬜  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
+[Amazon][amazon]                                  | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
 [Battle.net][battlenet]                           | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [Bethesda.net][bethesda]                          | ✅  | ✅               | ❌           | ❌       | ❌           | ❌
 [Discord][discord]                                | ⬜  | ✅               | ⬜           | ⬜       | ✅           | ⬜
@@ -81,7 +81,7 @@ Xbox                                              | ✅  | ✅               | �
 [Itch.io (@freakrho)][itch-3]                     | ⬜  | ⚠                | ❌           | ❌       | ❌           | ❌
 [Origin][origin]                                  | ✅  | ✅               | ✅           | ✅       | ✅           | ⬜
 [Paradox][paradox]                                | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
-[PSN][psn]                                        | ✅  | ⬜               | ✅           | ⬜       | ✅           | ✅
+[PSN][psn]                                        | ✅  | ⬜               | ✅           | ⬜       | ⬜           | ⬜
 [Riot][riot]                                      | ⬜  | ✅               | ⬜           | ✅       | ⬜           | ⬜
 [Rockstar Games Launcher][rockstar]               | ✅  | ✅               | ✅           | ⚠        | ✅           | ⬜
 [Steam][steam]                                    | ✅  | ✅               | ✅           | ✅       | ✅           | ✅
