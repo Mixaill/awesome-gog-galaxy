@@ -107,7 +107,7 @@ Xbox                                              | ✅  | ✅               | �
 [Nintendo Entertainment System (Mesen)][nes]      | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [Nintendo Gameboy (mGBA)][gameboy]                | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [Nintendo GameCube (Dolphin)][ncube]              | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
-[Nintendo Switch (Yuzu)][nswitch]                 | ⬜  | ✅               | ❌           | ⬜       | ❌           | ❌
+[Nintendo Switch][nswitch]                        | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [Nintendo Wii (Dolphin)][nwii]                    | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [Nintendo Wii U (Cemu)][nwiiu]                    | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
 [Super Nintendo Entertainment System (Bsnes)][snes] | ⬜  | ✅               | ❌           | ✅       | ❌           | ❌
@@ -149,7 +149,7 @@ Xbox                                              | ✅  | ✅               | �
 [snes]: https://github.com/AHCoder/galaxy-integration-snes "Maintained by @AHCoder"
 [n64]: https://github.com/Riku55/galaxy-integration-n64-RetroArch- "Maintained by @Riku55"
 [discord]: https://github.com/Ertego/gog-galaxy-discord "Maintained by @Ertego"
-[nswitch]: https://github.com/LeonardFiedrowicz/galaxy-integration-yuzu "Maintained by @LeonardFiedrowicz"
+[nswitch]: https://github.com/hyoretsu/galaxy-integration-switch "Maintained by @hyoretsu"
 [retroarch]: https://github.com/jshackles/RetroGOG "Maintained by @jshackles"
 [scummvm]: https://github.com/micpp42/gog-galaxy-scummvm "Maintained by @micpp42"
 [osu]: https://github.com/UncleGoogle/galaxy-integration-osu "Maintained by @UncleGoogle"
