@@ -80,6 +80,7 @@ Xbox                                              | ✅  | ✅               | �
 [Itch.io (@tauqua)][itch-2]                       | ⬜  | ⚠                | ❌           | ❌       | ❌           | ❌
 [Itch.io (@freakrho)][itch-3]                     | ⬜  | ⚠                | ❌           | ❌       | ❌           | ❌
 [Origin][origin]                                  | ✅  | ✅               | ✅           | ✅       | ✅           | ⬜
+[Legacy Games][legacy] (showed as Test)           | ⬜  | ⚠               | ❌           | ⬜       | ❌           | ❌
 [Paradox][paradox]                                | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [PSN][psn]                                        | ✅  | ⬜               | ✅           | ⬜       | ⬜           | ⬜
 [Riot][riot]                                      | ⬜  | ✅               | ⬜           | ✅       | ⬜           | ⬜
@@ -159,3 +160,4 @@ Xbox                                              | ✅  | ✅               | �
 [itch-3]: https://gitlab.com/freakrho/gog-galaxy-itch-integration "Maintained by @freakrho"
 [amazon]: https://github.com/Rall3n/galaxy-integration-amazon "Maintained by @Rall3n"
 [fanatical]: https://github.com/nosyn00b/GOG2_Fanatical_Plugin "Maintained by @nosyn00b"
+[legacy]: https://github.com/pippo-san/galaxy-integration-legacy-games "Maintained by @pippo-san"
