@@ -80,7 +80,7 @@ Xbox                                              | ✅  | ✅               | �
 [Itch.io (@tauqua)][itch-2]                       | ⬜  | ⚠                | ❌           | ❌       | ❌           | ❌
 [Itch.io (@freakrho)][itch-3]                     | ⬜  | ⚠                | ❌           | ❌       | ❌           | ❌
 [Origin][origin]                                  | ✅  | ✅               | ✅           | ✅       | ✅           | ⬜
-[Legacy Games][legacy] (showed as Test)           | ⬜  | ⚠               | ❌           | ⬜       | ❌           | ❌
+[Legacy Games][legacy] (showed as Kartridge)      | ⬜  | ⚠               | ❌           | ✅       | ❌           | ❌
 [Paradox][paradox]                                | ✅  | ✅               | ⬜           | ⬜       | ⬜           | ⬜
 [PSN][psn]                                        | ✅  | ⬜               | ✅           | ⬜       | ⬜           | ⬜
 [Riot][riot]                                      | ⬜  | ✅               | ⬜           | ✅       | ⬜           | ⬜
